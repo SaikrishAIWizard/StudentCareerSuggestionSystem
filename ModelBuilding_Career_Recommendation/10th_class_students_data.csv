@@ -1,0 +1,1175 @@
+SL NO,GENDER,HIN,ENG,MATH,GEO,HIST,SCIENCE,BIO,HOBBY,INTEREST,SPORTS,ACHIEVEMENTS,LANGUAGE,AVG,STREAM
+205,Female,100,85,58,80,93,45,51,Cooking,Music,Basketball,Math Olympiad winner,Hindi,73.14285714285714,Arts
+307,Female,94,86,59,92,76,52,42,Gardening,History,Football,Music competition winner,Hindi,71.57142857142857,Arts
+403,Female,97,64,58,86,86,54,54,Cooking,Photography,Tennis,Dance competition winner,Hindi,71.28571428571429,Arts
+1618,Female,83,91,49,86,95,51,43,Gardening,Cooking,Swimming,Math Olympiad winner,English,71.14285714285714,Arts
+1745,Female,83,96,52,95,79,43,46,Sports,Music,Football,Chess competition winner,English,70.57142857142857,Arts
+1788,Female,82,98,55,96,56,52,53,Drawing,Science,Athletics,Debate competition winner,Hindi,70.28571428571429,Arts
+1996,Male,64,94,41,94,95,52,59,Travelling,Art,Cricket,Art competition winner,English,71.28571428571429,Arts
+2565,Female,99,92,43,84,95,51,43,Gardening,History,Tennis,Art competition winner,English,72.42857142857143,Arts
+2805,Male,94,96,56,76,62,57,56,Gardening,Art,Table Tennis,Athletics competition winner,English,71.0,Arts
+2890,Male,87,99,55,89,77,53,54,Drawing,Art,Basketball,Debate competition winner,English,73.42857142857143,Arts
+3037,Female,81,99,59,96,83,50,40,Music,Cooking,Cricket,Art competition winner,English,72.57142857142857,Arts
+3044,Female,96,96,42,90,80,44,53,Cooking,History,Table Tennis,Science fair winner,Hindi,71.57142857142857,Arts
+3095,Male,76,84,50,98,91,40,51,Photography,Dance,Cricket,Chess competition winner,Hindi,70.0,Arts
+3103,Male,89,79,55,75,96,47,54,Photography,Science,Swimming,Art competition winner,Hindi,70.71428571428571,Arts
+3190,Male,76,95,54,84,84,47,54,Reading,Cooking,Cricket,Chess competition winner,English,70.57142857142857,Arts
+3545,Male,94,96,56,81,79,40,44,Travelling,Science,Table Tennis,Music competition winner,Hindi,70.0,Arts
+3979,Male,97,87,50,98,80,52,48,Photography,Art,Tennis,Math Olympiad winner,Hindi,73.14285714285714,Arts
+5148,Female,87,97,50,74,99,55,59,Travelling,Cooking,Tennis,Chess competition winner,Hindi,74.42857142857143,Arts
+5393,Male,98,75,50,94,83,56,51,Reading,Programming,Volleyball,Chess competition winner,English,72.42857142857143,Arts
+5515,Female,62,99,58,88,93,48,56,Travelling,Science,Volleyball,Chess competition winner,Hindi,72.0,Arts
+6182,Female,54,93,57,99,75,58,56,Gardening,Art,Table Tennis,Music competition winner,Hindi,70.28571428571429,Arts
+6811,Male,94,86,46,90,87,56,41,Gardening,Cooking,Football,Chess competition winner,English,71.42857142857143,Arts
+7093,Female,97,99,43,99,91,51,56,Photography,Music,Tennis,Athletics competition winner,English,76.57142857142857,Arts
+7095,Female,98,97,57,81,75,58,48,Gardening,Art,Cricket,Dance competition winner,Hindi,73.42857142857143,Arts
+7532,Female,78,92,44,95,89,55,58,Reading,Photography,Basketball,Math Olympiad winner,English,73.0,Arts
+7708,Male,99,88,56,100,89,46,57,Gardening,Photography,Cricket,Athletics competition winner,English,76.42857142857143,Arts
+8613,Male,77,86,57,93,66,55,56,Drawing,Science,Table Tennis,Science fair winner,Hindi,70.0,Arts
+9483,Female,78,98,45,88,92,58,43,Sports,Science,Volleyball,Dance competition winner,Hindi,71.71428571428571,Arts
+10800,Male,74,92,58,92,88,56,56,Photography,Programming,Volleyball,Art competition winner,Hindi,73.71428571428571,Arts
+11679,Male,96,96,48,98,88,47,49,Drawing,Music,Basketball,Art competition winner,Hindi,74.57142857142857,Arts
+11764,Female,85,100,50,88,61,55,59,Cooking,Art,Basketball,Athletics competition winner,English,71.14285714285714,Arts
+12496,Male,82,96,50,91,91,46,58,Sports,Music,Table Tennis,Art competition winner,English,73.42857142857143,Arts
+13242,Male,94,87,42,90,99,41,56,Travelling,History,Tennis,Chess competition winner,Hindi,72.71428571428571,Arts
+13394,Male,85,96,52,87,83,57,51,Music,Photography,Swimming,Debate competition winner,Hindi,73.0,Arts
+13681,Female,98,89,46,73,92,55,48,Travelling,Science,Tennis,Art competition winner,Hindi,71.57142857142857,Arts
+13728,Female,95,81,53,65,90,49,59,Photography,Photography,Basketball,Debate competition winner,English,70.28571428571429,Arts
+14457,Female,100,92,47,96,62,47,55,Sports,Music,Basketball,Athletics competition winner,Hindi,71.28571428571429,Arts
+14826,Male,95,68,57,92,96,46,52,Photography,Programming,Volleyball,Art competition winner,English,72.28571428571429,Arts
+15188,Male,87,89,49,86,84,57,43,Photography,Programming,Volleyball,Math Olympiad winner,Hindi,70.71428571428571,Arts
+15752,Male,90,87,58,96,84,53,41,Music,Photography,Cricket,Science fair winner,Hindi,72.71428571428571,Arts
+18022,Female,81,95,45,91,75,46,58,Photography,Science,Volleyball,Science fair winner,English,70.14285714285714,Arts
+18082,Female,99,98,54,67,72,57,45,Reading,Art,Athletics,Math Olympiad winner,Hindi,70.28571428571429,Arts
+19209,Male,94,86,54,97,80,50,52,Reading,Cooking,Tennis,Math Olympiad winner,Hindi,73.28571428571429,Arts
+19293,Male,85,50,58,96,94,49,59,Music,Cooking,Volleyball,Art competition winner,Hindi,70.14285714285714,Arts
+19500,Male,89,75,55,98,79,55,42,Music,Music,Tennis,Athletics competition winner,English,70.42857142857143,Arts
+19803,Female,92,82,48,100,78,51,40,Cooking,History,Football,Athletics competition winner,English,70.14285714285714,Arts
+20728,Male,84,88,51,95,93,42,42,Music,Programming,Basketball,Athletics competition winner,English,70.71428571428571,Arts
+21054,Female,92,100,56,99,47,53,48,Travelling,History,Swimming,Dance competition winner,Hindi,70.71428571428571,Arts
+21104,Male,80,85,56,76,95,59,41,Cooking,Music,Volleyball,Chess competition winner,English,70.28571428571429,Arts
+21639,Male,97,61,50,98,93,52,42,Gardening,Programming,Athletics,Debate competition winner,English,70.42857142857143,Arts
+21718,Male,95,86,48,86,85,42,50,Travelling,Science,Athletics,Athletics competition winner,English,70.28571428571429,Arts
+22162,Male,97,96,56,97,71,49,42,Travelling,History,Volleyball,Athletics competition winner,Hindi,72.57142857142857,Arts
+22253,Male,90,74,55,95,92,46,46,Sports,Dance,Swimming,Art competition winner,Hindi,71.14285714285714,Arts
+23088,Female,93,94,56,99,71,48,44,Gardening,History,Athletics,Dance competition winner,English,72.14285714285714,Arts
+23223,Male,78,85,53,97,95,54,53,Reading,History,Swimming,Dance competition winner,Hindi,73.57142857142857,Arts
+23428,Female,68,98,59,96,88,43,47,Music,Programming,Basketball,Debate competition winner,Hindi,71.28571428571429,Arts
+23554,Male,80,92,50,77,96,47,53,Cooking,Music,Swimming,Chess competition winner,Hindi,70.71428571428571,Arts
+23854,Female,77,89,44,99,100,59,52,Cooking,Art,Table Tennis,Math Olympiad winner,English,74.28571428571429,Arts
+23879,Male,68,96,57,93,75,54,48,Cooking,History,Basketball,Dance competition winner,Hindi,70.14285714285714,Arts
+24372,Female,88,96,49,84,82,52,50,Music,Music,Tennis,Chess competition winner,English,71.57142857142857,Arts
+24775,Male,87,77,56,97,76,54,56,Sports,Music,Football,Science fair winner,English,71.85714285714286,Arts
+25660,Male,77,99,55,96,82,44,43,Cooking,Cooking,Swimming,Music competition winner,Hindi,70.85714285714286,Arts
+26025,Female,96,82,45,70,99,47,51,Gardening,Art,Basketball,Athletics competition winner,English,70.0,Arts
+26793,Male,94,82,47,77,98,49,49,Cooking,Science,Cricket,Chess competition winner,Hindi,70.85714285714286,Arts
+27332,Female,92,93,54,98,78,57,45,Sports,Cooking,Football,Math Olympiad winner,English,73.85714285714286,Arts
+27459,Female,92,68,57,92,72,59,57,Sports,History,Football,Math Olympiad winner,Hindi,71.0,Arts
+27491,Male,92,69,47,95,95,53,46,Reading,Programming,Table Tennis,Art competition winner,English,71.0,Arts
+27653,Male,79,92,54,97,84,52,40,Reading,History,Swimming,Athletics competition winner,English,71.14285714285714,Arts
+29482,Female,93,79,55,63,94,56,54,Music,Dance,Table Tennis,Science fair winner,English,70.57142857142857,Arts
+29833,Male,66,98,58,94,81,44,53,Drawing,Science,Athletics,Athletics competition winner,Hindi,70.57142857142857,Arts
+30468,Male,93,92,40,97,93,57,43,Sports,Photography,Basketball,Music competition winner,Hindi,73.57142857142857,Arts
+30755,Female,76,89,50,95,73,54,56,Gardening,Dance,Swimming,Music competition winner,Hindi,70.42857142857143,Arts
+30999,Female,99,49,59,99,89,43,53,Gardening,Art,Cricket,Dance competition winner,Hindi,70.14285714285714,Arts
+31101,Male,93,98,52,61,93,53,41,Reading,History,Swimming,Athletics competition winner,Hindi,70.14285714285714,Arts
+31255,Male,96,81,56,96,93,49,46,Photography,Art,Cricket,Music competition winner,English,73.85714285714286,Arts
+33123,Male,71,77,43,100,99,53,47,Music,Music,Football,Debate competition winner,English,70.0,Arts
+33209,Female,85,97,45,92,90,51,42,Cooking,Dance,Tennis,Music competition winner,Hindi,71.71428571428571,Arts
+33676,Female,86,97,55,99,79,41,59,Reading,Art,Basketball,Chess competition winner,English,73.71428571428571,Arts
+34343,Female,95,99,48,72,99,49,46,Music,Cooking,Tennis,Math Olympiad winner,Hindi,72.57142857142857,Arts
+35553,Female,93,69,55,85,87,49,57,Drawing,Programming,Volleyball,Dance competition winner,Hindi,70.71428571428571,Arts
+35648,Male,79,98,43,95,76,57,49,Sports,History,Cricket,Dance competition winner,English,71.0,Arts
+36119,Female,93,86,54,100,71,51,55,Photography,Programming,Basketball,Debate competition winner,Hindi,72.85714285714286,Arts
+36702,Female,98,86,58,100,49,57,58,Travelling,Science,Athletics,Athletics competition winner,Hindi,72.28571428571429,Arts
+38736,Male,92,90,59,82,78,52,43,Travelling,Music,Basketball,Debate competition winner,Hindi,70.85714285714286,Arts
+38799,Female,95,92,50,83,69,55,50,Drawing,Photography,Basketball,Dance competition winner,Hindi,70.57142857142857,Arts
+39279,Male,98,93,55,81,96,50,42,Travelling,Art,Volleyball,Science fair winner,Hindi,73.57142857142857,Arts
+40119,Male,99,53,46,95,92,56,56,Reading,Music,Athletics,Athletics competition winner,English,71.0,Arts
+40625,Female,95,96,57,96,63,43,53,Drawing,Cooking,Table Tennis,Athletics competition winner,English,71.85714285714286,Arts
+40817,Female,88,79,57,96,87,40,56,Photography,Art,Football,Art competition winner,Hindi,71.85714285714286,Arts
+42017,Female,99,97,55,82,84,51,47,Cooking,Cooking,Football,Chess competition winner,Hindi,73.57142857142857,Arts
+42363,Male,100,96,53,99,58,55,48,Drawing,Music,Football,Art competition winner,English,72.71428571428571,Arts
+42586,Male,93,82,47,79,88,57,45,Reading,Art,Swimming,Science fair winner,English,70.14285714285714,Arts
+44221,Male,92,86,41,98,78,54,47,Reading,Programming,Football,Chess competition winner,Hindi,70.85714285714286,Arts
+44292,Male,89,97,57,87,68,53,41,Gardening,History,Tennis,Music competition winner,English,70.28571428571429,Arts
+45853,Male,96,79,55,62,90,56,55,Gardening,Art,Cricket,Dance competition winner,English,70.42857142857143,Arts
+46198,Female,99,92,51,98,63,57,48,Sports,Music,Swimming,Art competition winner,Hindi,72.57142857142857,Arts
+46236,Female,70,89,55,92,86,49,59,Drawing,History,Athletics,Math Olympiad winner,Hindi,71.42857142857143,Arts
+47065,Female,87,100,49,74,99,56,43,Photography,Science,Cricket,Science fair winner,Hindi,72.57142857142857,Arts
+47129,Female,74,93,56,92,74,56,57,Drawing,Photography,Cricket,Athletics competition winner,Hindi,71.71428571428571,Arts
+47697,Female,99,68,55,86,97,42,43,Photography,Programming,Cricket,Music competition winner,Hindi,70.0,Arts
+47961,Female,88,93,43,93,91,40,54,Drawing,History,Swimming,Art competition winner,Hindi,71.71428571428571,Arts
+47974,Female,95,88,57,55,97,47,55,Drawing,Programming,Basketball,Music competition winner,Hindi,70.57142857142857,Arts
+47984,Female,92,97,46,90,66,58,55,Gardening,Programming,Athletics,Athletics competition winner,Hindi,72.0,Arts
+48116,Male,83,93,57,86,72,55,55,Travelling,Science,Table Tennis,Art competition winner,English,71.57142857142857,Arts
+48624,Female,87,96,59,85,78,59,56,Reading,History,Football,Science fair winner,English,74.28571428571429,Arts
+48779,Female,99,71,45,75,100,49,56,Gardening,Music,Athletics,Art competition winner,English,70.71428571428571,Arts
+48853,Male,89,63,58,86,92,48,55,Drawing,Music,Cricket,Chess competition winner,English,70.14285714285714,Arts
+49988,Female,98,93,49,80,97,54,46,Sports,History,Cricket,Chess competition winner,English,73.85714285714286,Arts
+50117,Male,94,91,54,92,54,53,54,Photography,Photography,Football,Chess competition winner,English,70.28571428571429,Arts
+50344,Male,87,97,50,73,92,43,51,Photography,Music,Swimming,Dance competition winner,Hindi,70.42857142857143,Arts
+50935,Female,90,99,59,100,60,44,43,Travelling,Science,Athletics,Math Olympiad winner,Hindi,70.71428571428571,Arts
+51357,Female,96,85,54,73,79,49,56,Travelling,Music,Table Tennis,Chess competition winner,Hindi,70.28571428571429,Arts
+51867,Male,86,81,59,93,85,59,59,Photography,Music,Cricket,Chess competition winner,English,74.57142857142857,Arts
+51992,Male,85,66,47,100,94,50,48,Sports,Cooking,Cricket,Science fair winner,English,70.0,Arts
+52049,Female,99,98,53,59,96,48,47,Drawing,History,Football,Music competition winner,Hindi,71.42857142857143,Arts
+54732,Male,95,95,57,67,77,55,47,Drawing,Cooking,Swimming,Math Olympiad winner,English,70.42857142857143,Arts
+55798,Female,74,79,51,100,75,52,59,Reading,Cooking,Volleyball,Math Olympiad winner,English,70.0,Arts
+56270,Female,49,94,48,97,94,58,54,Gardening,Science,Tennis,Art competition winner,English,70.57142857142857,Arts
+56605,Female,86,85,53,82,89,45,50,Cooking,Programming,Table Tennis,Music competition winner,Hindi,70.0,Arts
+57020,Male,97,91,57,83,76,46,46,Gardening,Programming,Volleyball,Math Olympiad winner,Hindi,70.85714285714286,Arts
+57184,Male,79,96,54,79,89,40,55,Photography,Dance,Athletics,Dance competition winner,English,70.28571428571429,Arts
+57385,Female,78,99,56,92,84,47,45,Drawing,Science,Athletics,Dance competition winner,Hindi,71.57142857142857,Arts
+58562,Male,78,95,45,88,85,57,51,Travelling,Cooking,Athletics,Music competition winner,English,71.28571428571429,Arts
+59523,Female,84,83,46,78,99,57,55,Sports,Dance,Athletics,Music competition winner,Hindi,71.71428571428571,Arts
+60316,Female,83,93,57,72,85,54,52,Travelling,Programming,Basketball,Dance competition winner,Hindi,70.85714285714286,Arts
+61933,Female,96,84,43,88,93,54,45,Cooking,Music,Basketball,Music competition winner,English,71.85714285714286,Arts
+63006,Female,88,71,54,99,73,57,57,Gardening,History,Tennis,Art competition winner,Hindi,71.28571428571429,Arts
+63433,Female,94,59,55,98,99,57,44,Cooking,Photography,Football,Athletics competition winner,Hindi,72.28571428571429,Arts
+63455,Male,85,67,53,84,92,56,56,Music,Cooking,Swimming,Dance competition winner,English,70.42857142857143,Arts
+64177,Male,98,78,50,98,90,51,58,Music,Cooking,Basketball,Music competition winner,English,74.71428571428571,Arts
+66483,Female,93,80,58,95,73,42,54,Cooking,History,Athletics,Debate competition winner,English,70.71428571428571,Arts
+66519,Male,82,94,41,85,97,58,57,Reading,History,Athletics,Math Olympiad winner,English,73.42857142857143,Arts
+66711,Female,62,100,44,94,94,43,58,Music,Programming,Athletics,Math Olympiad winner,English,70.71428571428571,Arts
+67543,Male,95,94,52,92,62,55,43,Music,Cooking,Volleyball,Dance competition winner,English,70.42857142857143,Arts
+67668,Male,84,87,53,100,81,44,51,Travelling,Photography,Tennis,Math Olympiad winner,English,71.42857142857143,Arts
+69175,Male,99,78,44,66,99,55,55,Reading,Music,Basketball,Dance competition winner,English,70.85714285714286,Arts
+69293,Male,97,68,57,95,79,59,57,Drawing,Dance,Swimming,Dance competition winner,Hindi,73.14285714285714,Arts
+69334,Male,99,86,58,68,91,54,55,Music,Science,Cricket,Science fair winner,Hindi,73.0,Arts
+70856,Male,91,85,50,89,100,40,40,Music,Cooking,Basketball,Athletics competition winner,English,70.71428571428571,Arts
+72091,Male,84,98,45,87,95,58,43,Gardening,Cooking,Tennis,Music competition winner,Hindi,72.85714285714286,Arts
+72318,Female,100,87,55,95,78,45,45,Photography,History,Table Tennis,Dance competition winner,Hindi,72.14285714285714,Arts
+72366,Male,93,90,43,100,88,42,51,Photography,Cooking,Volleyball,Chess competition winner,Hindi,72.42857142857143,Arts
+72400,Female,95,93,48,77,86,52,58,Gardening,Music,Tennis,Chess competition winner,Hindi,72.71428571428571,Arts
+72453,Female,99,83,59,95,71,43,46,Drawing,Dance,Table Tennis,Debate competition winner,English,70.85714285714286,Arts
+72561,Male,86,95,50,98,73,45,59,Sports,Programming,Swimming,Debate competition winner,English,72.28571428571429,Arts
+74739,Female,60,80,59,94,92,55,58,Gardening,Art,Basketball,Debate competition winner,English,71.14285714285714,Arts
+75494,Male,81,97,58,59,92,57,59,Gardening,History,Athletics,Debate competition winner,Hindi,71.85714285714286,Arts
+76457,Female,100,100,40,77,94,50,40,Sports,Art,Tennis,Science fair winner,Hindi,71.57142857142857,Arts
+77925,Male,91,100,47,95,88,40,56,Cooking,Cooking,Swimming,Music competition winner,Hindi,73.85714285714286,Arts
+80525,Male,99,72,42,99,97,58,41,Travelling,Photography,Basketball,Debate competition winner,English,72.57142857142857,Arts
+81665,Female,71,99,55,91,78,49,51,Travelling,Photography,Tennis,Art competition winner,Hindi,70.57142857142857,Arts
+81791,Male,85,89,55,72,99,51,42,Cooking,Art,Swimming,Math Olympiad winner,Hindi,70.42857142857143,Arts
+82133,Male,93,75,57,99,87,52,42,Sports,Science,Swimming,Debate competition winner,Hindi,72.14285714285714,Arts
+82845,Male,99,98,50,96,82,57,59,Photography,Photography,Table Tennis,Science fair winner,English,77.28571428571429,Arts
+83202,Male,91,100,46,100,92,52,44,Music,Science,Volleyball,Music competition winner,Hindi,75.0,Arts
+83393,Female,77,88,59,94,72,57,51,Photography,History,Athletics,Science fair winner,Hindi,71.14285714285714,Arts
+83499,Male,95,67,57,98,98,59,57,Music,Cooking,Athletics,Music competition winner,Hindi,75.85714285714286,Arts
+83836,Male,86,100,50,76,82,44,57,Drawing,Photography,Swimming,Math Olympiad winner,Hindi,70.71428571428571,Arts
+86076,Female,100,84,54,90,85,51,49,Sports,Art,Table Tennis,Science fair winner,English,73.28571428571429,Arts
+87965,Male,88,91,55,90,96,56,43,Drawing,Music,Volleyball,Chess competition winner,Hindi,74.14285714285714,Arts
+88543,Male,97,85,46,72,84,53,53,Drawing,History,Tennis,Math Olympiad winner,Hindi,70.0,Arts
+91345,Female,64,93,46,100,85,54,55,Gardening,Programming,Cricket,Debate competition winner,English,71.0,Arts
+91460,Female,100,95,51,97,64,42,47,Gardening,Cooking,Football,Chess competition winner,English,70.85714285714286,Arts
+93103,Female,94,89,57,81,100,51,56,Reading,Programming,Tennis,Dance competition winner,English,75.42857142857143,Arts
+93786,Female,95,81,59,99,72,44,55,Sports,Cooking,Football,Music competition winner,Hindi,72.14285714285714,Arts
+93918,Male,95,59,59,98,74,47,58,Gardening,Programming,Football,Art competition winner,Hindi,70.0,Arts
+96218,Female,67,98,42,96,94,53,59,Drawing,History,Swimming,Chess competition winner,English,72.71428571428571,Arts
+96685,Male,81,97,58,87,95,55,41,Cooking,Programming,Cricket,Dance competition winner,Hindi,73.42857142857143,Arts
+96898,Male,64,81,48,98,97,52,52,Cooking,Science,Swimming,Debate competition winner,Hindi,70.28571428571429,Arts
+98048,Female,91,80,58,84,95,40,52,Travelling,Music,Volleyball,Art competition winner,English,71.42857142857143,Arts
+99078,Female,90,82,54,94,73,56,50,Drawing,Art,Table Tennis,Dance competition winner,Hindi,71.28571428571429,Arts
+99304,Male,88,68,47,100,84,56,59,Photography,Dance,Basketball,Music competition winner,Hindi,71.71428571428571,Arts
+99573,Male,76,91,52,90,79,57,57,Photography,Cooking,Tennis,Debate competition winner,Hindi,71.71428571428571,Arts
+99576,Male,97,99,55,86,88,49,46,Photography,Programming,Tennis,Science fair winner,Hindi,74.28571428571429,Arts
+42329,Female,51,72,89,87,57,53,58,Travelling,Programming,Tennis,Science fair winner,English,66.71428571428571,Commerce
+8411,Female,95,69,49,43,54,69,47,Drawing,Music,Cricket,Math Olympiad winner,English,60.857142857142854,Commerce
+73057,Female,98,52,40,63,100,43,63,Drawing,Art,Swimming,Dance competition winner,English,65.57142857142857,Commerce
+73531,Female,90,40,73,88,69,66,48,Drawing,History,Tennis,Math Olympiad winner,English,67.71428571428571,Commerce
+39136,Male,75,86,52,51,42,67,52,Travelling,Cooking,Volleyball,Athletics competition winner,English,60.714285714285715,Commerce
+31097,Female,55,90,53,75,80,45,62,Music,Programming,Football,Athletics competition winner,Hindi,65.71428571428571,Commerce
+24267,Male,100,76,60,64,100,69,74,Drawing,Photography,Athletics,Dance competition winner,Hindi,77.57142857142857,Commerce
+21934,Male,95,64,79,87,77,52,54,Music,Programming,Athletics,Science fair winner,Hindi,72.57142857142857,Commerce
+27851,Female,64,70,69,60,64,42,63,Music,Music,Swimming,Dance competition winner,Hindi,61.714285714285715,Commerce
+88425,Female,88,44,54,65,64,70,52,Travelling,Dance,Volleyball,Math Olympiad winner,English,62.42857142857143,Commerce
+28785,Male,65,85,73,82,44,47,56,Travelling,Photography,Swimming,Music competition winner,Hindi,64.57142857142857,Commerce
+82629,Male,42,92,44,100,42,47,63,Photography,Music,Athletics,Music competition winner,Hindi,61.42857142857143,Commerce
+25074,Male,50,75,72,44,94,42,43,Music,Music,Swimming,Math Olympiad winner,Hindi,60.0,Commerce
+31179,Male,84,91,94,59,53,45,41,Travelling,Photography,Athletics,Art competition winner,Hindi,66.71428571428571,Commerce
+58876,Male,96,67,50,98,54,72,71,Gardening,Dance,Athletics,Athletics competition winner,English,72.57142857142857,Commerce
+65772,Female,73,81,91,81,44,54,51,Gardening,Science,Swimming,Science fair winner,Hindi,67.85714285714286,Commerce
+13936,Male,60,81,60,59,54,46,54,Drawing,Science,Tennis,Athletics competition winner,Hindi,59.142857142857146,Commerce
+58282,Male,47,63,42,48,63,67,58,Drawing,Programming,Swimming,Music competition winner,English,55.42857142857143,Commerce
+86223,Female,68,91,57,99,40,59,67,Music,Photography,Swimming,Dance competition winner,English,68.71428571428571,Commerce
+82412,Female,84,48,73,67,55,45,68,Photography,Programming,Tennis,Debate competition winner,Hindi,62.857142857142854,Commerce
+57652,Female,73,79,55,41,76,70,44,Photography,Dance,Volleyball,Dance competition winner,Hindi,62.57142857142857,Commerce
+87677,Male,51,64,77,58,46,53,55,Travelling,Art,Volleyball,Math Olympiad winner,English,57.714285714285715,Commerce
+38555,Female,45,77,86,99,59,59,48,Travelling,Science,Swimming,Debate competition winner,English,67.57142857142857,Commerce
+10270,Male,87,75,93,95,75,56,52,Music,Dance,Football,Music competition winner,Hindi,76.14285714285714,Commerce
+96807,Male,54,90,51,78,95,49,65,Music,Art,Swimming,Art competition winner,English,68.85714285714286,Commerce
+27183,Female,49,58,41,73,58,67,46,Cooking,History,Athletics,Dance competition winner,Hindi,56.0,Commerce
+14560,Female,45,57,94,57,40,41,56,Reading,Art,Cricket,Music competition winner,English,55.714285714285715,Commerce
+2209,Female,43,86,93,68,81,54,51,Sports,History,Volleyball,Math Olympiad winner,Hindi,68.0,Commerce
+15378,Male,87,65,64,58,59,40,45,Reading,Dance,Swimming,Chess competition winner,English,59.714285714285715,Commerce
+43197,Female,59,85,83,65,43,45,47,Travelling,Science,Athletics,Athletics competition winner,English,61.0,Commerce
+11960,Male,71,72,48,88,74,42,60,Drawing,Music,Tennis,Debate competition winner,English,65.0,Commerce
+67837,Female,51,65,68,88,53,74,49,Gardening,Cooking,Tennis,Science fair winner,Hindi,64.0,Commerce
+41132,Female,53,49,99,46,92,44,51,Music,History,Football,Athletics competition winner,Hindi,62.0,Commerce
+49557,Male,91,70,88,74,93,59,46,Cooking,Science,Cricket,Dance competition winner,Hindi,74.42857142857143,Commerce
+69139,Female,51,100,60,67,49,42,54,Sports,Art,Table Tennis,Debate competition winner,English,60.42857142857143,Commerce
+68101,Male,66,64,52,84,86,74,43,Reading,History,Swimming,Chess competition winner,English,67.0,Commerce
+80313,Female,95,45,68,80,78,41,47,Photography,Cooking,Table Tennis,Art competition winner,Hindi,64.85714285714286,Commerce
+74009,Male,98,68,73,97,95,68,48,Cooking,Photography,Table Tennis,Math Olympiad winner,English,78.14285714285714,Commerce
+45753,Male,59,68,63,90,63,43,57,Gardening,Art,Cricket,Athletics competition winner,English,63.285714285714285,Commerce
+53278,Female,68,64,40,88,84,67,58,Cooking,Cooking,Athletics,Art competition winner,Hindi,67.0,Commerce
+35369,Female,83,58,61,91,43,62,65,Reading,Programming,Table Tennis,Art competition winner,English,66.14285714285714,Commerce
+19461,Male,78,48,45,48,86,41,62,Gardening,Cooking,Volleyball,Athletics competition winner,English,58.285714285714285,Commerce
+6350,Male,40,41,98,47,80,43,44,Travelling,Cooking,Volleyball,Music competition winner,English,56.142857142857146,Commerce
+26937,Female,45,70,93,69,70,50,59,Music,Dance,Football,Art competition winner,English,65.14285714285714,Commerce
+36872,Female,55,100,96,80,94,49,46,Cooking,Dance,Tennis,Math Olympiad winner,English,74.28571428571429,Commerce
+47983,Male,50,86,65,100,73,47,57,Reading,Programming,Cricket,Science fair winner,English,68.28571428571429,Commerce
+8141,Male,60,61,76,67,69,50,54,Sports,Music,Football,Dance competition winner,English,62.42857142857143,Commerce
+9522,Female,75,79,82,90,90,53,46,Photography,Cooking,Tennis,Athletics competition winner,English,73.57142857142857,Commerce
+41007,Female,53,88,93,97,53,49,54,Music,Art,Basketball,Athletics competition winner,English,69.57142857142857,Commerce
+80039,Male,76,93,90,66,67,53,51,Gardening,Art,Basketball,Athletics competition winner,English,70.85714285714286,Commerce
+81208,Female,99,73,94,53,41,58,55,Travelling,Art,Basketball,Debate competition winner,English,67.57142857142857,Commerce
+82359,Male,60,40,89,68,80,42,56,Photography,History,Table Tennis,Debate competition winner,Hindi,62.142857142857146,Commerce
+79627,Female,43,59,75,97,100,51,52,Reading,Programming,Table Tennis,Art competition winner,English,68.14285714285714,Commerce
+12460,Male,71,65,40,99,75,61,71,Reading,Photography,Table Tennis,Chess competition winner,English,68.85714285714286,Commerce
+24563,Female,94,43,73,42,64,47,68,Travelling,Cooking,Football,Dance competition winner,English,61.57142857142857,Commerce
+25260,Male,68,66,89,90,41,49,48,Reading,History,Football,Chess competition winner,Hindi,64.42857142857143,Commerce
+41280,Female,83,92,80,72,74,44,44,Gardening,Music,Tennis,Art competition winner,English,69.85714285714286,Commerce
+24456,Female,95,74,48,49,55,66,71,Photography,Programming,Cricket,Debate competition winner,Hindi,65.42857142857143,Commerce
+79691,Female,60,86,70,92,98,41,49,Cooking,Programming,Athletics,Music competition winner,Hindi,70.85714285714286,Commerce
+92452,Male,77,51,49,54,61,54,69,Reading,Dance,Athletics,Art competition winner,Hindi,59.285714285714285,Commerce
+17608,Male,43,74,88,97,47,41,42,Gardening,History,Basketball,Math Olympiad winner,English,61.714285714285715,Commerce
+58866,Female,84,85,72,43,75,54,57,Gardening,Science,Table Tennis,Science fair winner,English,67.14285714285714,Commerce
+35036,Female,100,69,42,63,50,63,67,Music,Cooking,Football,Art competition winner,English,64.85714285714286,Commerce
+5475,Female,66,77,80,40,66,56,54,Gardening,Dance,Football,Music competition winner,Hindi,62.714285714285715,Commerce
+54455,Female,42,48,70,41,93,42,45,Cooking,Photography,Swimming,Math Olympiad winner,Hindi,54.42857142857143,Commerce
+18425,Male,56,65,69,45,48,56,67,Drawing,Cooking,Table Tennis,Athletics competition winner,English,58.0,Commerce
+51112,Female,53,89,62,92,43,68,42,Cooking,Art,Cricket,Debate competition winner,English,64.14285714285714,Commerce
+71633,Female,83,45,77,95,44,47,57,Gardening,Science,Tennis,Chess competition winner,Hindi,64.0,Commerce
+81832,Female,64,84,65,96,69,61,45,Photography,Cooking,Table Tennis,Science fair winner,Hindi,69.14285714285714,Commerce
+24774,Female,44,83,68,54,86,49,42,Music,Music,Volleyball,Science fair winner,English,60.857142857142854,Commerce
+97315,Female,60,69,72,85,79,45,71,Gardening,History,Football,Chess competition winner,English,68.71428571428571,Commerce
+52406,Female,82,76,62,54,69,64,42,Cooking,Programming,Basketball,Athletics competition winner,English,64.14285714285714,Commerce
+28836,Female,93,63,78,84,83,50,51,Gardening,Dance,Tennis,Science fair winner,Hindi,71.71428571428571,Commerce
+88031,Female,46,70,69,56,73,52,65,Music,Dance,Cricket,Debate competition winner,English,61.57142857142857,Commerce
+81359,Female,56,74,59,65,46,61,69,Cooking,Cooking,Football,Dance competition winner,Hindi,61.42857142857143,Commerce
+52491,Male,61,63,93,91,76,44,48,Gardening,Art,Athletics,Art competition winner,Hindi,68.0,Commerce
+58871,Female,63,55,83,49,91,43,53,Cooking,Programming,Football,Debate competition winner,Hindi,62.42857142857143,Commerce
+46489,Male,72,50,65,43,74,58,53,Sports,Science,Tennis,Dance competition winner,English,59.285714285714285,Commerce
+74030,Female,45,59,68,56,69,73,46,Cooking,Art,Table Tennis,Athletics competition winner,Hindi,59.42857142857143,Commerce
+96257,Male,74,85,97,83,93,50,42,Photography,Cooking,Basketball,Math Olympiad winner,Hindi,74.85714285714286,Commerce
+70123,Female,58,47,51,50,48,72,49,Cooking,History,Volleyball,Music competition winner,English,53.57142857142857,Commerce
+53038,Male,84,80,60,47,55,44,44,Reading,Photography,Cricket,Chess competition winner,Hindi,59.142857142857146,Commerce
+41072,Female,65,92,72,100,82,41,57,Sports,Art,Table Tennis,Debate competition winner,English,72.71428571428571,Commerce
+9397,Female,83,56,58,56,80,73,43,Drawing,Art,Football,Chess competition winner,Hindi,64.14285714285714,Commerce
+14302,Female,95,44,67,77,87,49,59,Gardening,Art,Swimming,Chess competition winner,Hindi,68.28571428571429,Commerce
+89913,Female,95,97,87,92,60,57,48,Sports,Music,Volleyball,Dance competition winner,English,76.57142857142857,Commerce
+58784,Male,85,92,84,100,93,49,46,Gardening,History,Swimming,Art competition winner,English,78.42857142857143,Commerce
+17575,Male,53,46,66,94,50,45,60,Reading,Photography,Football,Music competition winner,Hindi,59.142857142857146,Commerce
+35602,Male,94,41,82,93,53,52,57,Sports,History,Table Tennis,Athletics competition winner,Hindi,67.42857142857143,Commerce
+89539,Male,64,56,44,87,60,44,72,Music,History,Tennis,Debate competition winner,Hindi,61.0,Commerce
+55189,Male,45,96,41,89,57,65,70,Gardening,Photography,Athletics,Debate competition winner,English,66.14285714285714,Commerce
+3469,Female,41,73,63,100,100,51,57,Gardening,Cooking,Football,Chess competition winner,Hindi,69.28571428571429,Commerce
+80815,Female,68,78,68,98,85,54,65,Drawing,Cooking,Cricket,Math Olympiad winner,English,73.71428571428571,Commerce
+56190,Male,73,99,80,66,47,43,44,Reading,Science,Swimming,Music competition winner,English,64.57142857142857,Commerce
+17947,Male,58,97,86,70,91,52,47,Travelling,Photography,Cricket,Art competition winner,Hindi,71.57142857142857,Commerce
+20692,Male,46,68,82,47,44,56,53,Photography,Art,Football,Debate competition winner,English,56.57142857142857,Commerce
+41541,Female,83,89,88,42,85,42,53,Reading,Dance,Table Tennis,Math Olympiad winner,English,68.85714285714286,Commerce
+29486,Male,41,53,96,76,70,59,50,Travelling,Photography,Volleyball,Dance competition winner,English,63.57142857142857,Commerce
+51606,Male,61,86,94,62,81,43,59,Sports,Cooking,Cricket,Debate competition winner,English,69.42857142857143,Commerce
+13344,Female,63,55,58,63,59,54,68,Reading,Music,Swimming,Dance competition winner,English,60.0,Commerce
+78223,Male,86,58,46,89,86,44,63,Photography,Music,Cricket,Debate competition winner,Hindi,67.42857142857143,Commerce
+74578,Male,92,55,72,79,40,49,44,Photography,Dance,Swimming,Athletics competition winner,English,61.57142857142857,Commerce
+12452,Female,84,44,46,47,87,69,58,Gardening,Art,Swimming,Athletics competition winner,Hindi,62.142857142857146,Commerce
+14040,Female,41,55,94,83,62,45,42,Sports,Dance,Athletics,Science fair winner,Hindi,60.285714285714285,Commerce
+30972,Male,40,52,66,82,95,58,47,Music,Science,Cricket,Music competition winner,Hindi,62.857142857142854,Commerce
+44018,Male,43,42,51,98,44,72,42,Cooking,Art,Cricket,Athletics competition winner,English,56.0,Commerce
+63382,Male,78,92,65,50,45,56,42,Reading,Photography,Cricket,Dance competition winner,English,61.142857142857146,Commerce
+96880,Male,97,75,60,79,56,51,43,Drawing,Art,Table Tennis,Music competition winner,English,65.85714285714286,Commerce
+14526,Female,91,52,95,96,53,45,58,Cooking,Cooking,Athletics,Dance competition winner,English,70.0,Commerce
+42366,Female,73,45,81,98,52,44,47,Photography,Photography,Football,Science fair winner,Hindi,62.857142857142854,Commerce
+20809,Male,69,48,95,62,58,42,44,Photography,Programming,Basketball,Science fair winner,Hindi,59.714285714285715,Commerce
+93399,Female,83,48,81,99,70,42,42,Cooking,Dance,Football,Chess competition winner,English,66.42857142857143,Commerce
+85748,Female,94,48,53,41,48,71,63,Cooking,Programming,Basketball,Debate competition winner,English,59.714285714285715,Commerce
+42198,Male,74,77,78,56,89,47,47,Drawing,History,Swimming,Chess competition winner,English,66.85714285714286,Commerce
+76726,Male,55,96,56,68,53,68,64,Reading,Photography,Basketball,Math Olympiad winner,Hindi,65.71428571428571,Commerce
+30505,Male,81,97,48,56,100,65,69,Reading,Music,Football,Art competition winner,English,73.71428571428571,Commerce
+66517,Female,71,54,47,95,77,71,57,Reading,Programming,Table Tennis,Math Olympiad winner,English,67.42857142857143,Commerce
+64993,Male,49,98,61,92,57,40,74,Music,Art,Volleyball,Art competition winner,Hindi,67.28571428571429,Commerce
+21059,Female,41,83,60,55,72,69,68,Gardening,Dance,Volleyball,Debate competition winner,English,64.0,Commerce
+35990,Male,69,51,63,51,77,68,41,Music,Cooking,Football,Math Olympiad winner,Hindi,60.0,Commerce
+2209,Female,43,86,93,68,81,54,51,Sports,History,Volleyball,Math Olympiad winner,Hindi,68.0,Commerce
+73255,Male,71,90,77,48,100,47,45,Drawing,Photography,Basketball,Music competition winner,English,68.28571428571429,Commerce
+59213,Female,97,63,52,47,55,43,63,Gardening,Photography,Table Tennis,Debate competition winner,English,60.0,Commerce
+72772,Female,94,86,85,90,63,44,44,Travelling,History,Table Tennis,Chess competition winner,Hindi,72.28571428571429,Commerce
+45274,Female,51,71,40,81,46,52,73,Gardening,Art,Swimming,Art competition winner,English,59.142857142857146,Commerce
+45004,Male,76,58,44,72,94,72,58,Cooking,Art,Tennis,Chess competition winner,Hindi,67.71428571428571,Commerce
+10582,Female,98,42,94,87,79,43,57,Drawing,Photography,Basketball,Dance competition winner,Hindi,71.42857142857143,Commerce
+65806,Male,62,94,70,82,65,54,58,Sports,Photography,Table Tennis,Dance competition winner,Hindi,69.28571428571429,Commerce
+4688,Male,53,80,70,43,53,65,58,Music,Music,Swimming,Athletics competition winner,English,60.285714285714285,Commerce
+10173,Male,88,61,92,86,44,43,50,Sports,Photography,Basketball,Dance competition winner,English,66.28571428571429,Commerce
+16348,Male,41,82,82,100,82,47,57,Cooking,Music,Table Tennis,Music competition winner,Hindi,70.14285714285714,Commerce
+71763,Male,98,86,65,73,69,48,50,Travelling,Photography,Athletics,Math Olympiad winner,Hindi,69.85714285714286,Commerce
+40726,Female,55,65,70,52,45,49,59,Drawing,Art,Athletics,Art competition winner,Hindi,56.42857142857143,Commerce
+37272,Male,40,96,68,44,49,65,45,Reading,Photography,Volleyball,Music competition winner,Hindi,58.142857142857146,Commerce
+48019,Female,90,42,69,78,67,60,41,Music,Programming,Swimming,Debate competition winner,Hindi,63.857142857142854,Commerce
+11127,Female,50,63,48,54,94,41,61,Music,Photography,Tennis,Science fair winner,Hindi,58.714285714285715,Commerce
+91978,Female,55,88,72,95,46,68,59,Gardening,Art,Swimming,Art competition winner,Hindi,69.0,Commerce
+10457,Male,73,93,67,61,64,47,54,Drawing,Programming,Swimming,Dance competition winner,Hindi,65.57142857142857,Commerce
+81394,Male,86,93,72,72,56,52,57,Music,History,Cricket,Chess competition winner,Hindi,69.71428571428571,Commerce
+53137,Male,65,69,57,88,83,53,73,Music,Dance,Athletics,Art competition winner,Hindi,69.71428571428571,Commerce
+74039,Male,91,86,67,43,97,56,42,Travelling,History,Volleyball,Debate competition winner,English,68.85714285714286,Commerce
+97589,Female,75,73,52,65,47,53,74,Photography,Programming,Basketball,Math Olympiad winner,Hindi,62.714285714285715,Commerce
+35347,Female,70,95,80,66,96,55,47,Travelling,Programming,Table Tennis,Chess competition winner,English,72.71428571428571,Commerce
+73753,Female,55,74,51,46,74,43,69,Reading,Programming,Basketball,Dance competition winner,Hindi,58.857142857142854,Commerce
+48461,Male,69,52,85,70,55,44,58,Cooking,Art,Swimming,Debate competition winner,English,61.857142857142854,Commerce
+31329,Male,95,45,88,55,55,52,42,Gardening,Cooking,Football,Dance competition winner,English,61.714285714285715,Commerce
+88681,Female,47,70,54,53,64,45,60,Drawing,Music,Football,Chess competition winner,Hindi,56.142857142857146,Commerce
+89482,Male,96,57,50,86,86,44,60,Drawing,Programming,Tennis,Music competition winner,Hindi,68.42857142857143,Commerce
+80783,Female,98,91,76,69,49,59,46,Sports,History,Cricket,Science fair winner,Hindi,69.71428571428571,Commerce
+17204,Female,44,65,62,52,59,45,49,Sports,Music,Basketball,Science fair winner,English,53.714285714285715,Commerce
+44297,Female,45,95,93,80,45,53,49,Photography,History,Tennis,Debate competition winner,Hindi,65.71428571428571,Commerce
+86570,Male,91,49,74,59,88,43,74,Cooking,Dance,Cricket,Math Olympiad winner,English,68.28571428571429,Commerce
+30727,Male,49,80,74,88,83,45,60,Music,Music,Tennis,Music competition winner,Hindi,68.42857142857143,Commerce
+39925,Male,93,89,70,95,57,56,50,Gardening,Music,Volleyball,Athletics competition winner,Hindi,72.85714285714286,Commerce
+14476,Male,82,49,53,52,93,72,67,Photography,Photography,Football,Debate competition winner,English,66.85714285714286,Commerce
+33410,Female,53,88,61,99,51,52,63,Drawing,Music,Cricket,Math Olympiad winner,Hindi,66.71428571428571,Commerce
+97352,Male,58,93,41,90,53,40,69,Cooking,Dance,Basketball,Music competition winner,Hindi,63.42857142857143,Commerce
+16609,Female,97,54,66,96,73,57,53,Photography,History,Football,Math Olympiad winner,English,70.85714285714286,Commerce
+97016,Female,73,73,100,58,85,57,59,Travelling,Science,Swimming,Debate competition winner,English,72.14285714285714,Commerce
+61303,Male,67,75,83,89,92,41,44,Music,Programming,Swimming,Math Olympiad winner,Hindi,70.14285714285714,Commerce
+56047,Male,41,99,80,44,63,43,42,Drawing,Photography,Basketball,Art competition winner,Hindi,58.857142857142854,Commerce
+37917,Female,96,51,75,40,71,56,47,Sports,Cooking,Volleyball,Math Olympiad winner,Hindi,62.285714285714285,Commerce
+75086,Male,88,75,68,86,75,48,58,Reading,Art,Tennis,Math Olympiad winner,English,71.14285714285714,Commerce
+26289,Male,42,45,67,99,68,46,44,Gardening,Cooking,Table Tennis,Chess competition winner,English,58.714285714285715,Commerce
+32928,Male,46,97,73,84,69,46,69,Drawing,Dance,Volleyball,Music competition winner,Hindi,69.14285714285714,Commerce
+17178,Male,73,69,67,68,82,42,74,Gardening,History,Tennis,Science fair winner,Hindi,67.85714285714286,Commerce
+98582,Female,66,96,55,80,98,40,68,Reading,Cooking,Table Tennis,Art competition winner,English,71.85714285714286,Commerce
+18960,Male,43,81,71,89,76,64,54,Gardening,Cooking,Table Tennis,Debate competition winner,Hindi,68.28571428571429,Commerce
+14990,Male,55,85,44,69,63,49,61,Drawing,Dance,Football,Math Olympiad winner,Hindi,60.857142857142854,Commerce
+77269,Female,97,96,76,73,56,41,55,Drawing,Cooking,Volleyball,Science fair winner,English,70.57142857142857,Commerce
+90859,Male,44,90,62,48,70,64,59,Travelling,Programming,Swimming,Art competition winner,Hindi,62.42857142857143,Commerce
+19610,Male,83,83,79,45,73,44,47,Reading,Photography,Tennis,Science fair winner,English,64.85714285714286,Commerce
+77406,Male,52,63,84,74,80,51,47,Travelling,Photography,Table Tennis,Music competition winner,English,64.42857142857143,Commerce
+14809,Male,77,46,65,57,89,65,42,Drawing,Photography,Volleyball,Athletics competition winner,Hindi,63.0,Commerce
+4539,Male,70,88,76,40,43,58,41,Photography,Music,Tennis,Art competition winner,Hindi,59.42857142857143,Commerce
+93557,Male,96,64,57,77,79,73,54,Drawing,Photography,Tennis,Debate competition winner,Hindi,71.42857142857143,Commerce
+5979,Male,95,77,45,89,67,66,49,Gardening,Photography,Table Tennis,Dance competition winner,English,69.71428571428571,Commerce
+95855,Female,87,88,62,42,70,46,54,Gardening,Art,Table Tennis,Art competition winner,Hindi,64.14285714285714,Commerce
+80615,Male,56,95,91,40,75,58,57,Music,Cooking,Table Tennis,Debate competition winner,English,67.42857142857143,Commerce
+83824,Male,95,71,91,59,48,53,58,Photography,Science,Volleyball,Math Olympiad winner,English,67.85714285714286,Commerce
+80777,Female,72,48,65,78,49,56,70,Music,History,Table Tennis,Athletics competition winner,Hindi,62.57142857142857,Commerce
+8999,Female,75,71,71,97,40,49,51,Cooking,Photography,Table Tennis,Math Olympiad winner,Hindi,64.85714285714286,Commerce
+59556,Female,98,94,66,43,95,48,45,Reading,Music,Football,Music competition winner,Hindi,69.85714285714286,Commerce
+64450,Female,58,71,49,68,48,73,60,Drawing,Cooking,Swimming,Chess competition winner,English,61.0,Commerce
+49543,Female,59,70,50,90,44,72,43,Cooking,Art,Cricket,Science fair winner,English,61.142857142857146,Commerce
+35044,Male,78,64,68,68,92,44,73,Music,Music,Athletics,Dance competition winner,Hindi,69.57142857142857,Commerce
+54867,Male,92,56,72,79,92,47,61,Music,History,Athletics,Dance competition winner,English,71.28571428571429,Commerce
+75621,Male,77,78,70,47,47,59,54,Cooking,Dance,Basketball,Art competition winner,English,61.714285714285715,Commerce
+32855,Female,50,50,64,95,53,68,50,Travelling,Art,Athletics,Music competition winner,English,61.42857142857143,Commerce
+41810,Male,51,72,84,87,89,53,59,Travelling,Photography,Tennis,Music competition winner,Hindi,70.71428571428571,Commerce
+32772,Female,72,59,50,76,89,62,46,Cooking,Cooking,Football,Dance competition winner,English,64.85714285714286,Commerce
+8639,Female,43,65,45,56,79,66,58,Cooking,Cooking,Volleyball,Athletics competition winner,Hindi,58.857142857142854,Commerce
+66066,Male,47,49,42,67,71,48,64,Reading,Art,Swimming,Debate competition winner,English,55.42857142857143,Commerce
+60399,Male,98,47,94,64,60,43,43,Music,Dance,Athletics,Math Olympiad winner,Hindi,64.14285714285714,Commerce
+62426,Female,49,54,58,86,53,72,42,Music,Music,Table Tennis,Dance competition winner,Hindi,59.142857142857146,Commerce
+69836,Male,84,78,55,77,97,60,70,Music,History,Tennis,Science fair winner,Hindi,74.42857142857143,Commerce
+94270,Male,56,97,40,79,51,68,43,Photography,Cooking,Basketball,Science fair winner,Hindi,62.0,Commerce
+55789,Female,90,80,74,56,71,47,58,Cooking,History,Football,Chess competition winner,English,68.0,Commerce
+26909,Female,86,49,71,68,61,40,58,Gardening,Cooking,Football,Art competition winner,English,61.857142857142854,Commerce
+69417,Female,47,60,58,59,90,68,43,Reading,Dance,Swimming,Chess competition winner,English,60.714285714285715,Commerce
+34191,Male,91,66,69,99,40,67,43,Cooking,Art,Athletics,Music competition winner,English,67.85714285714286,Commerce
+94012,Female,64,82,55,40,99,67,74,Cooking,Music,Athletics,Music competition winner,Hindi,68.71428571428571,Commerce
+33093,Male,55,40,100,67,72,40,40,Sports,Science,Basketball,Athletics competition winner,Hindi,59.142857142857146,Commerce
+65618,Female,43,80,85,89,70,49,45,Music,Science,Tennis,Dance competition winner,English,65.85714285714286,Commerce
+45004,Male,76,58,44,72,94,72,58,Cooking,Art,Tennis,Chess competition winner,Hindi,67.71428571428571,Commerce
+82811,Female,92,59,60,52,79,48,52,Photography,Science,Football,Music competition winner,Hindi,63.142857142857146,Commerce
+2600,Male,96,79,55,50,93,68,74,Drawing,Photography,Basketball,Debate competition winner,Hindi,73.57142857142857,Commerce
+1583,Male,43,79,79,87,68,40,52,Sports,Programming,Cricket,Dance competition winner,Hindi,64.0,Commerce
+67641,Male,40,46,55,69,66,58,72,Music,History,Volleyball,Science fair winner,English,58.0,Commerce
+508,Male,53,100,46,46,80,64,59,Travelling,Photography,Swimming,Music competition winner,Hindi,64.0,Commerce
+79984,Female,48,93,73,60,88,73,74,Drawing,Photography,Volleyball,Athletics competition winner,English,72.71428571428571,Commerce
+77969,Female,86,42,62,64,69,42,53,Gardening,Photography,Swimming,Art competition winner,Hindi,59.714285714285715,Commerce
+60469,Male,70,53,82,57,54,50,52,Reading,Programming,Basketball,Chess competition winner,Hindi,59.714285714285715,Commerce
+45474,Female,77,92,47,65,87,64,58,Drawing,Music,Athletics,Math Olympiad winner,Hindi,70.0,Commerce
+73850,Male,99,94,49,94,63,44,73,Photography,Music,Football,Athletics competition winner,English,73.71428571428571,Commerce
+89097,Female,78,72,82,91,62,48,58,Travelling,Programming,Volleyball,Math Olympiad winner,Hindi,70.14285714285714,Commerce
+13862,Female,78,80,65,69,62,55,61,Reading,History,Basketball,Athletics competition winner,Hindi,67.14285714285714,Commerce
+23802,Male,81,64,49,56,88,44,63,Cooking,Cooking,Basketball,Athletics competition winner,English,63.57142857142857,Commerce
+33790,Female,41,45,86,45,81,44,48,Photography,Science,Volleyball,Debate competition winner,Hindi,55.714285714285715,Commerce
+89709,Female,46,53,99,100,46,46,45,Reading,Music,Football,Music competition winner,English,62.142857142857146,Commerce
+40211,Female,86,80,71,73,44,61,72,Cooking,Photography,Volleyball,Science fair winner,English,69.57142857142857,Commerce
+33058,Male,49,57,77,62,86,57,42,Travelling,Cooking,Table Tennis,Dance competition winner,English,61.42857142857143,Commerce
+40374,Female,53,57,46,62,59,72,42,Drawing,History,Basketball,Science fair winner,Hindi,55.857142857142854,Commerce
+31674,Female,88,76,61,57,97,51,46,Travelling,Dance,Volleyball,Science fair winner,English,68.0,Commerce
+88684,Male,100,98,61,51,44,46,74,Music,History,Tennis,Athletics competition winner,Hindi,67.71428571428571,Commerce
+28286,Male,84,56,91,57,53,40,42,Reading,Cooking,Athletics,Art competition winner,English,60.42857142857143,Commerce
+58232,Female,58,79,65,92,70,53,44,Gardening,Dance,Basketball,Music competition winner,English,65.85714285714286,Commerce
+64324,Female,96,83,46,43,82,46,74,Photography,Cooking,Basketball,Chess competition winner,Hindi,67.14285714285714,Commerce
+2517,Female,90,55,60,70,45,62,72,Reading,Dance,Tennis,Art competition winner,Hindi,64.85714285714286,Commerce
+94911,Female,90,41,90,43,82,52,46,Reading,Cooking,Swimming,Athletics competition winner,English,63.42857142857143,Commerce
+93948,Female,65,87,41,40,57,50,63,Drawing,History,Volleyball,Math Olympiad winner,Hindi,57.57142857142857,Commerce
+75745,Male,68,98,78,87,56,53,47,Sports,Dance,Table Tennis,Music competition winner,English,69.57142857142857,Commerce
+85829,Female,91,64,88,68,83,48,45,Photography,Dance,Table Tennis,Dance competition winner,Hindi,69.57142857142857,Commerce
+11015,Male,43,73,69,41,86,60,68,Drawing,Music,Volleyball,Chess competition winner,English,62.857142857142854,Commerce
+93955,Male,61,67,69,84,63,41,40,Cooking,History,Athletics,Dance competition winner,English,60.714285714285715,Commerce
+33358,Female,84,82,45,48,76,41,61,Music,Dance,Tennis,Music competition winner,Hindi,62.42857142857143,Commerce
+53873,Male,82,40,69,97,97,63,49,Gardening,Photography,Basketball,Art competition winner,Hindi,71.0,Commerce
+1783,Male,55,100,80,55,42,40,59,Gardening,Programming,Cricket,Athletics competition winner,Hindi,61.57142857142857,Commerce
+53680,Female,90,73,61,57,59,61,71,Music,Cooking,Swimming,Chess competition winner,English,67.42857142857143,Commerce
+60927,Male,94,55,69,92,59,49,58,Photography,Dance,Cricket,Debate competition winner,Hindi,68.0,Commerce
+76453,Female,68,70,82,97,65,55,58,Gardening,Programming,Tennis,Debate competition winner,Hindi,70.71428571428571,Commerce
+17113,Male,46,99,71,74,55,64,48,Music,Music,Table Tennis,Chess competition winner,Hindi,65.28571428571429,Commerce
+74124,Female,74,49,72,65,65,65,49,Gardening,History,Table Tennis,Art competition winner,Hindi,62.714285714285715,Commerce
+2547,Female,45,44,53,44,77,66,42,Reading,History,Volleyball,Athletics competition winner,English,53.0,Commerce
+43586,Female,98,74,93,91,97,52,45,Reading,Cooking,Cricket,Science fair winner,English,78.57142857142857,Commerce
+6344,Female,66,82,61,100,78,41,42,Reading,Cooking,Cricket,Debate competition winner,English,67.14285714285714,Commerce
+6925,Male,42,80,50,95,71,70,47,Drawing,Photography,Volleyball,Debate competition winner,Hindi,65.0,Commerce
+21484,Female,40,60,93,69,49,52,52,Photography,Programming,Swimming,Dance competition winner,English,59.285714285714285,Commerce
+14274,Female,65,75,40,62,42,68,49,Gardening,Cooking,Volleyball,Chess competition winner,English,57.285714285714285,Commerce
+67058,Female,56,95,47,90,65,51,74,Gardening,Dance,Swimming,Math Olympiad winner,English,68.28571428571429,Commerce
+85214,Male,47,98,51,73,68,46,51,Music,Cooking,Football,Science fair winner,English,62.0,Humanities
+13246,Male,56,87,40,96,45,40,41,Drawing,Cooking,Table Tennis,Science fair winner,English,57.857142857142854,Humanities
+81590,Female,85,77,55,50,51,49,53,Travelling,Programming,Cricket,Art competition winner,Hindi,60.0,Humanities
+54474,Female,73,71,57,96,50,43,46,Travelling,Photography,Athletics,Math Olympiad winner,English,62.285714285714285,Humanities
+96758,Female,76,80,59,53,82,42,55,Music,Programming,Football,Music competition winner,English,63.857142857142854,Humanities
+42341,Male,41,91,51,70,78,46,42,Reading,Photography,Tennis,Dance competition winner,English,59.857142857142854,Humanities
+15814,Male,50,74,51,72,70,40,59,Reading,Dance,Basketball,Art competition winner,Hindi,59.42857142857143,Humanities
+6647,Female,80,96,55,43,79,43,41,Travelling,Photography,Table Tennis,Art competition winner,Hindi,62.42857142857143,Humanities
+79536,Female,90,100,48,50,71,40,50,Sports,Photography,Table Tennis,Art competition winner,Hindi,64.14285714285714,Humanities
+40090,Female,53,97,48,75,99,51,53,Sports,Dance,Volleyball,Chess competition winner,Hindi,68.0,Humanities
+23189,Male,44,86,54,97,67,45,54,Cooking,Science,Cricket,Chess competition winner,Hindi,63.857142857142854,Humanities
+87504,Male,49,75,41,56,80,47,53,Sports,Art,Basketball,Dance competition winner,Hindi,57.285714285714285,Humanities
+89841,Female,43,79,51,99,95,54,56,Cooking,Photography,Cricket,Chess competition winner,Hindi,68.14285714285714,Humanities
+50391,Male,86,74,42,96,58,46,43,Photography,Science,Basketball,Dance competition winner,English,63.57142857142857,Humanities
+56614,Male,96,83,43,71,89,46,59,Cooking,Programming,Swimming,Debate competition winner,Hindi,69.57142857142857,Humanities
+99357,Female,48,79,58,95,91,50,53,Gardening,Music,Swimming,Art competition winner,Hindi,67.71428571428571,Humanities
+59162,Female,84,74,59,87,40,54,52,Gardening,Programming,Cricket,Science fair winner,Hindi,64.28571428571429,Humanities
+81344,Male,83,81,57,94,66,55,52,Drawing,Photography,Football,Athletics competition winner,English,69.71428571428571,Humanities
+7051,Female,93,100,44,62,52,41,43,Cooking,History,Cricket,Science fair winner,English,62.142857142857146,Humanities
+97780,Female,72,93,54,84,44,57,49,Drawing,Art,Tennis,Debate competition winner,English,64.71428571428571,Humanities
+90399,Female,52,80,46,62,99,44,44,Gardening,Science,Cricket,Music competition winner,Hindi,61.0,Humanities
+61070,Female,96,91,44,59,67,53,54,Sports,Programming,Table Tennis,Chess competition winner,Hindi,66.28571428571429,Humanities
+34770,Male,58,84,45,94,63,58,45,Music,Science,Table Tennis,Science fair winner,Hindi,63.857142857142854,Humanities
+52973,Female,96,90,42,85,50,46,59,Gardening,Dance,Cricket,Dance competition winner,English,66.85714285714286,Humanities
+35556,Male,89,72,42,79,47,51,54,Drawing,Science,Swimming,Science fair winner,Hindi,62.0,Humanities
+97631,Male,59,74,43,65,40,56,42,Gardening,Art,Football,Chess competition winner,English,54.142857142857146,Humanities
+16367,Male,59,73,49,47,55,54,47,Sports,Programming,Cricket,Dance competition winner,Hindi,54.857142857142854,Humanities
+87824,Male,54,76,52,72,79,42,56,Travelling,History,Basketball,Math Olympiad winner,English,61.57142857142857,Humanities
+90681,Male,92,82,50,79,41,42,42,Cooking,Music,Athletics,Debate competition winner,Hindi,61.142857142857146,Humanities
+8555,Male,78,71,44,48,54,44,41,Sports,Programming,Volleyball,Math Olympiad winner,Hindi,54.285714285714285,Humanities
+13840,Female,87,77,58,51,90,54,59,Photography,Science,Cricket,Music competition winner,English,68.0,Humanities
+15814,Male,50,74,51,72,70,40,59,Reading,Dance,Basketball,Art competition winner,Hindi,59.42857142857143,Humanities
+15927,Male,54,74,53,43,47,56,40,Drawing,Cooking,Football,Art competition winner,Hindi,52.42857142857143,Humanities
+53193,Female,93,76,45,42,53,47,44,Reading,Art,Football,Athletics competition winner,Hindi,57.142857142857146,Humanities
+96019,Female,46,89,51,58,69,41,55,Gardening,Dance,Swimming,Debate competition winner,English,58.42857142857143,Humanities
+26915,Female,48,99,54,46,82,42,54,Music,Photography,Table Tennis,Math Olympiad winner,Hindi,60.714285714285715,Humanities
+94640,Male,91,92,42,49,55,46,51,Gardening,Cooking,Athletics,Math Olympiad winner,Hindi,60.857142857142854,Humanities
+95139,Male,41,86,41,68,46,48,45,Cooking,Science,Basketball,Art competition winner,English,53.57142857142857,Humanities
+97855,Female,78,83,40,76,67,43,40,Travelling,Music,Athletics,Science fair winner,Hindi,61.0,Humanities
+58585,Female,95,71,57,59,60,52,45,Reading,Photography,Cricket,Music competition winner,Hindi,62.714285714285715,Humanities
+65673,Female,83,100,48,87,56,58,53,Reading,History,Athletics,Dance competition winner,Hindi,69.28571428571429,Humanities
+70559,Male,46,73,59,41,52,53,44,Sports,Photography,Volleyball,Science fair winner,Hindi,52.57142857142857,Humanities
+24867,Male,90,79,41,60,62,52,50,Cooking,Science,Swimming,Science fair winner,English,62.0,Humanities
+14794,Male,46,80,45,93,44,41,51,Photography,Cooking,Basketball,Chess competition winner,English,57.142857142857146,Humanities
+39305,Female,76,85,49,78,52,55,56,Music,Programming,Swimming,Music competition winner,Hindi,64.42857142857143,Humanities
+77068,Male,66,78,51,60,96,58,51,Gardening,Programming,Tennis,Music competition winner,English,65.71428571428571,Humanities
+32551,Male,63,76,41,69,56,44,50,Cooking,Photography,Volleyball,Music competition winner,Hindi,57.0,Humanities
+33299,Female,93,76,59,83,56,53,56,Reading,Cooking,Football,Music competition winner,English,68.0,Humanities
+63260,Female,94,99,45,41,81,55,53,Cooking,Art,Swimming,Art competition winner,Hindi,66.85714285714286,Humanities
+16754,Male,97,77,58,79,41,44,40,Drawing,Music,Table Tennis,Science fair winner,English,62.285714285714285,Humanities
+64046,Female,68,74,50,89,58,48,57,Drawing,Science,Football,Chess competition winner,English,63.42857142857143,Humanities
+20842,Male,60,93,41,53,96,40,52,Reading,Photography,Volleyball,Debate competition winner,English,62.142857142857146,Humanities
+30460,Male,75,100,57,70,42,59,47,Music,Programming,Swimming,Dance competition winner,English,64.28571428571429,Humanities
+69568,Male,87,86,51,75,77,52,44,Cooking,Photography,Football,Chess competition winner,English,67.42857142857143,Humanities
+58693,Female,63,89,51,46,88,47,50,Reading,Art,Table Tennis,Chess competition winner,Hindi,62.0,Humanities
+82103,Female,76,79,55,55,51,56,56,Gardening,Cooking,Volleyball,Dance competition winner,Hindi,61.142857142857146,Humanities
+17471,Male,81,75,43,60,78,46,59,Cooking,Dance,Swimming,Science fair winner,Hindi,63.142857142857146,Humanities
+53006,Female,76,89,47,62,66,45,57,Sports,Science,Football,Debate competition winner,Hindi,63.142857142857146,Humanities
+73216,Male,76,94,58,87,60,47,47,Drawing,History,Swimming,Debate competition winner,English,67.0,Humanities
+15807,Male,47,87,43,93,74,47,43,Sports,Photography,Tennis,Math Olympiad winner,Hindi,62.0,Humanities
+38157,Female,88,74,45,99,51,47,55,Music,Music,Athletics,Dance competition winner,English,65.57142857142857,Humanities
+94899,Male,79,96,52,52,70,50,57,Travelling,Cooking,Tennis,Debate competition winner,English,65.14285714285714,Humanities
+12046,Male,87,75,59,43,71,43,43,Cooking,Dance,Athletics,Math Olympiad winner,Hindi,60.142857142857146,Humanities
+9919,Female,83,75,57,64,58,49,48,Music,Music,Basketball,Dance competition winner,Hindi,62.0,Humanities
+45350,Male,59,90,47,42,77,57,47,Cooking,Programming,Basketball,Science fair winner,English,59.857142857142854,Humanities
+45097,Male,92,99,45,71,53,55,51,Sports,Science,Volleyball,Chess competition winner,Hindi,66.57142857142857,Humanities
+60242,Female,91,82,42,56,40,41,51,Music,History,Table Tennis,Math Olympiad winner,Hindi,57.57142857142857,Humanities
+61366,Female,56,95,54,80,91,50,50,Gardening,Photography,Swimming,Math Olympiad winner,Hindi,68.0,Humanities
+76813,Female,84,77,56,91,65,59,54,Music,Music,Swimming,Science fair winner,Hindi,69.42857142857143,Humanities
+16643,Female,61,80,43,40,66,42,52,Sports,Music,Volleyball,Art competition winner,English,54.857142857142854,Humanities
+51107,Male,61,83,40,62,40,49,58,Reading,Science,Volleyball,Music competition winner,Hindi,56.142857142857146,Humanities
+35398,Female,48,81,42,53,58,56,54,Sports,Science,Volleyball,Math Olympiad winner,Hindi,56.0,Humanities
+54555,Male,47,88,54,86,84,58,40,Drawing,Science,Table Tennis,Debate competition winner,Hindi,65.28571428571429,Humanities
+76813,Male,84,77,56,91,65,59,54,Music,Music,Swimming,Science fair winner,Hindi,69.42857142857143,Humanities
+48786,Female,100,86,41,88,55,54,41,Sports,History,Volleyball,Science fair winner,English,66.42857142857143,Humanities
+24562,Male,43,72,59,98,75,42,56,Travelling,Programming,Table Tennis,Science fair winner,Hindi,63.57142857142857,Humanities
+22047,Male,55,78,40,79,64,45,55,Travelling,History,Cricket,Athletics competition winner,English,59.42857142857143,Humanities
+42113,Female,63,93,52,42,91,54,57,Music,Art,Volleyball,Chess competition winner,English,64.57142857142857,Humanities
+94640,Male,91,92,42,49,55,46,51,Gardening,Cooking,Athletics,Math Olympiad winner,Hindi,60.857142857142854,Humanities
+22521,Female,60,88,45,40,100,42,56,Gardening,Cooking,Volleyball,Music competition winner,English,61.57142857142857,Humanities
+23286,Female,98,87,49,72,67,46,51,Photography,Photography,Table Tennis,Music competition winner,English,67.14285714285714,Humanities
+60159,Male,86,79,44,81,47,59,52,Reading,Science,Swimming,Debate competition winner,English,64.0,Humanities
+59177,Female,63,97,44,95,94,46,47,Music,Dance,Basketball,Math Olympiad winner,English,69.42857142857143,Humanities
+48860,Female,92,75,55,94,82,43,48,Gardening,Music,Athletics,Science fair winner,English,69.85714285714286,Humanities
+87873,Female,54,99,40,64,79,54,47,Gardening,Programming,Tennis,Athletics competition winner,Hindi,62.42857142857143,Humanities
+60159,Female,86,79,44,81,47,59,52,Reading,Science,Swimming,Debate competition winner,English,64.0,Humanities
+93711,Female,55,81,41,55,93,43,59,Sports,Photography,Volleyball,Music competition winner,English,61.0,Humanities
+92543,Female,71,76,46,70,52,58,58,Photography,Music,Basketball,Art competition winner,Hindi,61.57142857142857,Humanities
+97848,Male,86,89,52,48,76,47,46,Travelling,Programming,Swimming,Science fair winner,English,63.42857142857143,Humanities
+69728,Male,59,99,42,97,46,55,49,Photography,Dance,Tennis,Debate competition winner,Hindi,63.857142857142854,Humanities
+1860,Female,98,71,53,63,74,40,50,Gardening,Cooking,Table Tennis,Music competition winner,Hindi,64.14285714285714,Humanities
+56614,Male,96,83,43,71,89,46,59,Cooking,Programming,Swimming,Debate competition winner,Hindi,69.57142857142857,Humanities
+24867,Female,90,79,41,60,62,52,50,Cooking,Science,Swimming,Science fair winner,English,62.0,Humanities
+20463,Female,78,74,44,46,51,40,56,Music,Science,Basketball,Chess competition winner,English,55.57142857142857,Humanities
+33109,Male,80,77,59,48,83,57,51,Cooking,Programming,Table Tennis,Art competition winner,Hindi,65.0,Humanities
+49492,Female,94,75,44,98,75,48,40,Drawing,History,Volleyball,Chess competition winner,Hindi,67.71428571428571,Humanities
+44496,Male,98,93,58,50,57,40,55,Cooking,Cooking,Volleyball,Music competition winner,Hindi,64.42857142857143,Humanities
+79097,Female,98,73,58,78,52,43,46,Music,History,Swimming,Math Olympiad winner,English,64.0,Humanities
+56068,Male,83,75,43,78,74,46,41,Gardening,Photography,Cricket,Music competition winner,Hindi,62.857142857142854,Humanities
+23999,Female,76,84,52,65,54,59,59,Sports,History,Swimming,Athletics competition winner,English,64.14285714285714,Humanities
+61479,Female,46,76,52,43,54,59,45,Gardening,Programming,Basketball,Dance competition winner,English,53.57142857142857,Humanities
+36047,Female,40,84,54,90,47,59,48,Music,Music,Football,Math Olympiad winner,Hindi,60.285714285714285,Humanities
+43559,Female,67,76,52,93,98,46,51,Reading,History,Swimming,Science fair winner,English,69.0,Humanities
+15959,Female,88,75,48,79,75,46,49,Gardening,History,Table Tennis,Art competition winner,Hindi,65.71428571428571,Humanities
+94007,Male,47,77,44,53,90,54,54,Music,Art,Swimming,Music competition winner,Hindi,59.857142857142854,Humanities
+78745,Male,98,86,49,55,93,50,47,Sports,Music,Tennis,Math Olympiad winner,Hindi,68.28571428571429,Humanities
+1163,Female,47,79,50,90,56,53,56,Drawing,Programming,Tennis,Art competition winner,Hindi,61.57142857142857,Humanities
+6828,Female,71,81,51,89,95,41,59,Cooking,Programming,Football,Science fair winner,English,69.57142857142857,Humanities
+39453,Male,69,84,55,83,41,57,59,Sports,Art,Table Tennis,Dance competition winner,Hindi,64.0,Humanities
+20850,Female,73,79,40,83,41,54,40,Music,Art,Table Tennis,Dance competition winner,Hindi,58.57142857142857,Humanities
+27008,Female,48,71,41,98,75,54,53,Gardening,Photography,Tennis,Chess competition winner,Hindi,62.857142857142854,Humanities
+61981,Female,83,90,48,89,65,58,40,Reading,Music,Tennis,Math Olympiad winner,Hindi,67.57142857142857,Humanities
+31650,Female,67,90,48,47,88,41,57,Cooking,Photography,Swimming,Chess competition winner,English,62.57142857142857,Humanities
+49420,Female,95,85,48,89,45,47,47,Photography,Music,Football,Debate competition winner,Hindi,65.14285714285714,Humanities
+20544,Male,99,92,54,85,48,50,51,Travelling,Photography,Football,Music competition winner,English,68.42857142857143,Humanities
+12405,Male,53,94,46,41,97,47,55,Travelling,Cooking,Tennis,Chess competition winner,English,61.857142857142854,Humanities
+10193,Male,99,86,42,41,53,57,50,Gardening,Art,Football,Athletics competition winner,English,61.142857142857146,Humanities
+18918,Male,97,83,46,59,53,59,55,Travelling,Music,Athletics,Dance competition winner,English,64.57142857142857,Humanities
+95051,Female,65,99,47,75,46,46,41,Gardening,Programming,Athletics,Art competition winner,English,59.857142857142854,Humanities
+66776,Male,91,70,51,67,49,50,44,Music,History,Table Tennis,Dance competition winner,Hindi,60.285714285714285,Humanities
+67546,Female,75,96,48,56,68,47,46,Gardening,Photography,Table Tennis,Dance competition winner,English,62.285714285714285,Humanities
+78091,Female,78,86,59,98,61,42,45,Drawing,History,Table Tennis,Math Olympiad winner,Hindi,67.0,Humanities
+68946,Male,93,78,49,59,94,41,57,Reading,Art,Athletics,Dance competition winner,English,67.28571428571429,Humanities
+53187,Male,78,71,42,71,70,46,41,Travelling,Cooking,Volleyball,Science fair winner,Hindi,59.857142857142854,Humanities
+54090,Female,42,73,48,68,48,51,50,Drawing,Dance,Tennis,Debate competition winner,Hindi,54.285714285714285,Humanities
+8774,Male,83,76,43,41,87,42,59,Cooking,Dance,Table Tennis,Math Olympiad winner,Hindi,61.57142857142857,Humanities
+95465,Male,94,93,42,64,91,55,50,Cooking,History,Cricket,Athletics competition winner,Hindi,69.85714285714286,Humanities
+24812,Male,42,82,42,88,94,51,59,Reading,Music,Athletics,Dance competition winner,Hindi,65.42857142857143,Humanities
+19857,Male,88,81,50,55,98,59,50,Sports,Art,Cricket,Math Olympiad winner,English,68.71428571428571,Humanities
+27214,Male,86,77,41,97,47,46,52,Photography,History,Table Tennis,Math Olympiad winner,English,63.714285714285715,Humanities
+44530,Male,45,99,57,64,45,44,44,Drawing,Dance,Football,Debate competition winner,Hindi,56.857142857142854,Humanities
+1138,Female,57,92,50,42,58,51,44,Reading,Programming,Football,Chess competition winner,English,56.285714285714285,Humanities
+37373,Female,63,73,59,98,54,57,43,Photography,Music,Athletics,Debate competition winner,Hindi,63.857142857142854,Humanities
+17052,Female,90,92,43,42,75,40,55,Gardening,Photography,Football,Dance competition winner,Hindi,62.42857142857143,Humanities
+25019,Female,95,87,43,70,59,49,44,Photography,Music,Volleyball,Athletics competition winner,Hindi,63.857142857142854,Humanities
+83801,Female,53,76,45,48,75,45,57,Photography,Music,Table Tennis,Debate competition winner,Hindi,57.0,Humanities
+34078,Female,67,82,54,81,65,51,56,Sports,Music,Volleyball,Art competition winner,Hindi,65.14285714285714,Humanities
+19880,Male,73,78,46,90,74,40,44,Drawing,Programming,Table Tennis,Dance competition winner,Hindi,63.57142857142857,Humanities
+99615,Female,61,97,42,87,87,54,44,Gardening,Science,Tennis,Dance competition winner,Hindi,67.42857142857143,Humanities
+75122,Female,60,96,59,55,64,58,45,Travelling,Dance,Table Tennis,Dance competition winner,English,62.42857142857143,Humanities
+36304,Male,80,87,48,77,96,52,47,Reading,Dance,Basketball,Math Olympiad winner,English,69.57142857142857,Humanities
+67937,Female,47,82,46,48,56,43,57,Reading,Science,Volleyball,Dance competition winner,Hindi,54.142857142857146,Humanities
+62531,Male,49,74,57,70,67,58,50,Gardening,Art,Swimming,Chess competition winner,English,60.714285714285715,Humanities
+82151,Female,87,99,55,56,91,49,43,Gardening,Science,Tennis,Debate competition winner,English,68.57142857142857,Humanities
+30470,Male,64,87,43,73,63,49,53,Travelling,Cooking,Athletics,Athletics competition winner,Hindi,61.714285714285715,Humanities
+11763,Male,65,88,42,45,91,47,57,Cooking,Science,Volleyball,Art competition winner,English,62.142857142857146,Humanities
+49370,Male,87,80,56,56,69,59,53,Travelling,Art,Basketball,Science fair winner,Hindi,65.71428571428571,Humanities
+64920,Female,62,88,40,79,95,49,43,Gardening,Science,Athletics,Science fair winner,English,65.14285714285714,Humanities
+97780,Male,72,93,54,84,44,57,49,Drawing,Art,Tennis,Debate competition winner,English,64.71428571428571,Humanities
+4691,Male,69,85,50,43,44,51,55,Photography,Cooking,Athletics,Dance competition winner,English,56.714285714285715,Humanities
+65157,Female,77,83,50,74,88,42,54,Gardening,Cooking,Tennis,Debate competition winner,Hindi,66.85714285714286,Humanities
+89626,Female,45,97,56,51,73,45,56,Photography,Music,Swimming,Athletics competition winner,Hindi,60.42857142857143,Humanities
+70670,Male,74,84,49,66,93,45,42,Cooking,Photography,Football,Debate competition winner,English,64.71428571428571,Humanities
+33910,Male,64,76,58,65,88,51,51,Drawing,Photography,Basketball,Math Olympiad winner,Hindi,64.71428571428571,Humanities
+35711,Female,87,92,42,63,69,44,54,Cooking,Programming,Tennis,Art competition winner,English,64.42857142857143,Humanities
+45496,Male,65,71,58,87,84,51,56,Photography,Music,Volleyball,Math Olympiad winner,English,67.42857142857143,Humanities
+32352,Female,42,72,46,76,72,55,41,Cooking,Programming,Tennis,Science fair winner,Hindi,57.714285714285715,Humanities
+97001,Male,47,87,42,44,75,57,49,Travelling,Art,Volleyball,Art competition winner,Hindi,57.285714285714285,Humanities
+50597,Female,65,92,45,54,65,51,47,Sports,Dance,Tennis,Dance competition winner,Hindi,59.857142857142854,Humanities
+37552,Male,59,89,55,61,63,48,50,Photography,Photography,Swimming,Athletics competition winner,English,60.714285714285715,Humanities
+11895,Female,58,77,55,68,67,45,58,Gardening,Music,Tennis,Music competition winner,Hindi,61.142857142857146,Humanities
+81122,Male,63,99,40,43,74,40,49,Cooking,Music,Athletics,Debate competition winner,Hindi,58.285714285714285,Humanities
+42259,Female,41,71,57,64,80,50,57,Music,Dance,Volleyball,Chess competition winner,Hindi,60.0,Humanities
+7775,Male,55,78,48,74,98,46,47,Travelling,Art,Basketball,Art competition winner,Hindi,63.714285714285715,Humanities
+48170,Female,60,84,41,67,61,58,46,Photography,Art,Volleyball,Music competition winner,English,59.57142857142857,Humanities
+49272,Female,43,97,59,47,45,51,42,Photography,Art,Swimming,Art competition winner,Hindi,54.857142857142854,Humanities
+24812,Male,42,82,42,88,94,51,59,Reading,Music,Athletics,Dance competition winner,Hindi,65.42857142857143,Humanities
+98664,Male,76,84,57,54,98,47,44,Gardening,Dance,Cricket,Athletics competition winner,Hindi,65.71428571428571,Humanities
+78907,Female,90,83,44,80,47,58,57,Gardening,Science,Football,Music competition winner,English,65.57142857142857,Humanities
+24562,Male,43,72,59,98,75,42,56,Travelling,Programming,Table Tennis,Science fair winner,Hindi,63.57142857142857,Humanities
+28441,Female,91,76,58,76,62,45,40,Travelling,Dance,Table Tennis,Art competition winner,English,64.0,Humanities
+29208,Male,77,70,43,62,42,48,56,Music,Music,Basketball,Art competition winner,Hindi,56.857142857142854,Humanities
+11356,Male,56,74,53,72,48,45,48,Reading,Programming,Table Tennis,Debate competition winner,Hindi,56.57142857142857,Humanities
+45586,Male,100,75,46,47,86,54,57,Photography,Art,Volleyball,Debate competition winner,Hindi,66.42857142857143,Humanities
+99357,Male,48,79,58,95,91,50,53,Gardening,Music,Swimming,Art competition winner,Hindi,67.71428571428571,Humanities
+13065,Female,78,88,48,70,90,42,43,Cooking,Cooking,Swimming,Math Olympiad winner,English,65.57142857142857,Humanities
+99772,Female,93,78,50,47,50,53,48,Photography,Photography,Swimming,Chess competition winner,Hindi,59.857142857142854,Humanities
+99633,Female,65,72,45,73,60,55,41,Gardening,Science,Swimming,Math Olympiad winner,Hindi,58.714285714285715,Humanities
+66734,Male,41,95,51,62,75,51,40,Cooking,History,Swimming,Athletics competition winner,Hindi,59.285714285714285,Humanities
+82074,Female,64,85,57,75,52,47,44,Sports,Programming,Athletics,Music competition winner,English,60.57142857142857,Humanities
+77303,Male,83,88,53,92,63,49,47,Sports,History,Athletics,Athletics competition winner,Hindi,67.85714285714286,Humanities
+11763,Male,65,88,42,45,91,47,57,Cooking,Science,Volleyball,Art competition winner,English,62.142857142857146,Humanities
+18023,Female,88,81,48,69,48,52,49,Music,Cooking,Table Tennis,Science fair winner,English,62.142857142857146,Humanities
+14575,Female,55,100,40,93,95,48,53,Reading,Art,Tennis,Art competition winner,Hindi,69.14285714285714,Humanities
+75834,Female,46,74,46,82,40,54,43,Reading,Programming,Swimming,Science fair winner,English,55.0,Humanities
+8730,Female,52,96,42,44,58,58,43,Gardening,Cooking,Athletics,Dance competition winner,Hindi,56.142857142857146,Humanities
+33619,Female,68,94,56,96,80,46,44,Sports,Programming,Football,Math Olympiad winner,Hindi,69.14285714285714,Humanities
+99218,Male,55,81,50,58,42,57,59,Drawing,Art,Cricket,Dance competition winner,Hindi,57.42857142857143,Humanities
+36036,Male,61,99,49,49,98,56,41,Sports,Art,Swimming,Debate competition winner,Hindi,64.71428571428571,Humanities
+67280,Female,60,96,58,77,54,40,40,Sports,Art,Basketball,Math Olympiad winner,Hindi,60.714285714285715,Humanities
+4563,Female,48,76,49,87,69,57,57,Cooking,Cooking,Tennis,Athletics competition winner,English,63.285714285714285,Humanities
+3447,Female,88,79,41,52,48,41,45,Sports,Music,Swimming,Chess competition winner,Hindi,56.285714285714285,Humanities
+20842,Male,60,93,41,53,96,40,52,Reading,Photography,Volleyball,Debate competition winner,English,62.142857142857146,Humanities
+68970,Male,71,95,51,69,55,41,48,Cooking,Art,Athletics,Athletics competition winner,English,61.42857142857143,Humanities
+73634,Male,67,81,42,77,78,46,43,Sports,History,Football,Debate competition winner,Hindi,62.0,Humanities
+31033,Male,57,75,51,60,58,56,54,Music,Cooking,Football,Music competition winner,Hindi,58.714285714285715,Humanities
+91804,Male,55,96,44,99,57,56,58,Photography,History,Tennis,Chess competition winner,Hindi,66.42857142857143,Humanities
+1574,Female,91,71,52,54,74,52,42,Music,Art,Football,Chess competition winner,Hindi,62.285714285714285,Humanities
+59548,Male,76,81,51,66,60,51,50,Gardening,History,Tennis,Art competition winner,English,62.142857142857146,Humanities
+95883,Male,94,94,50,89,55,40,53,Reading,Programming,Swimming,Athletics competition winner,Hindi,67.85714285714286,Humanities
+50414,Female,74,75,51,61,62,59,57,Reading,Dance,Volleyball,Chess competition winner,English,62.714285714285715,Humanities
+68362,Male,92,78,47,61,99,50,56,Drawing,Art,Tennis,Debate competition winner,Hindi,69.0,Humanities
+11895,Female,58,77,55,68,67,45,58,Gardening,Music,Tennis,Music competition winner,Hindi,61.142857142857146,Humanities
+35711,Female,87,92,42,63,69,44,54,Cooking,Programming,Tennis,Art competition winner,English,64.42857142857143,Humanities
+90021,Female,85,70,48,62,49,53,57,Music,History,Tennis,Math Olympiad winner,Hindi,60.57142857142857,Humanities
+33368,Female,92,78,57,42,84,48,51,Photography,Science,Tennis,Athletics competition winner,English,64.57142857142857,Humanities
+59087,Female,91,75,59,76,54,41,55,Gardening,Programming,Basketball,Music competition winner,Hindi,64.42857142857143,Humanities
+66759,Male,83,70,56,77,94,54,46,Cooking,Photography,Cricket,Art competition winner,English,68.57142857142857,Humanities
+57793,Female,73,88,46,85,66,45,44,Sports,History,Swimming,Science fair winner,English,63.857142857142854,Humanities
+61324,Male,40,87,47,55,49,46,53,Reading,Art,Volleyball,Math Olympiad winner,English,53.857142857142854,Humanities
+15422,Female,93,71,57,77,79,45,48,Music,History,Cricket,Math Olympiad winner,English,67.14285714285714,Humanities
+72844,Female,92,94,40,60,62,49,49,Music,History,Volleyball,Math Olympiad winner,English,63.714285714285715,Humanities
+29105,Female,57,74,59,42,61,42,57,Reading,Music,Cricket,Chess competition winner,English,56.0,Humanities
+73220,Female,47,73,59,57,69,41,47,Travelling,Dance,Volleyball,Athletics competition winner,English,56.142857142857146,Humanities
+50597,Male,65,92,45,54,65,51,47,Sports,Dance,Tennis,Dance competition winner,Hindi,59.857142857142854,Humanities
+10933,Female,43,71,43,59,72,40,44,Photography,Dance,Cricket,Debate competition winner,English,53.142857142857146,Humanities
+95795,Male,89,74,41,49,43,44,59,Drawing,Photography,Swimming,Debate competition winner,Hindi,57.0,Humanities
+62721,Male,55,70,52,52,79,47,56,Gardening,Dance,Athletics,Dance competition winner,Hindi,58.714285714285715,Humanities
+26582,Female,95,82,51,72,43,58,50,Travelling,Music,Tennis,Chess competition winner,English,64.42857142857143,Humanities
+69728,Male,59,99,42,97,46,55,49,Photography,Dance,Tennis,Debate competition winner,Hindi,63.857142857142854,Humanities
+94640,Female,91,92,42,49,55,46,51,Gardening,Cooking,Athletics,Math Olympiad winner,Hindi,60.857142857142854,Humanities
+51042,Male,52,76,55,64,51,48,46,Travelling,Dance,Football,Math Olympiad winner,Hindi,56.0,Humanities
+81964,Female,68,86,40,82,44,54,53,Music,History,Table Tennis,Chess competition winner,English,61.0,Humanities
+36142,Male,69,77,59,76,85,59,53,Sports,Photography,Football,Science fair winner,English,68.28571428571429,Humanities
+6166,Female,93,85,57,46,41,56,41,Gardening,Dance,Table Tennis,Athletics competition winner,English,59.857142857142854,Humanities
+66305,Female,83,81,45,72,55,59,50,Drawing,History,Volleyball,Science fair winner,English,63.57142857142857,Humanities
+35487,Male,50,95,48,49,69,50,52,Travelling,Cooking,Table Tennis,Chess competition winner,Hindi,59.0,Humanities
+25916,Female,45,84,52,56,82,50,44,Travelling,Music,Cricket,Music competition winner,English,59.0,Humanities
+17766,Female,84,74,55,63,92,47,50,Cooking,Music,Volleyball,Art competition winner,Hindi,66.42857142857143,Humanities
+11196,Male,77,70,50,61,68,49,48,Gardening,Programming,Cricket,Chess competition winner,English,60.42857142857143,Humanities
+64502,Male,48,84,59,87,69,44,53,Drawing,Programming,Swimming,Chess competition winner,Hindi,63.42857142857143,Humanities
+10384,Male,44,72,41,60,48,55,42,Reading,History,Football,Music competition winner,English,51.714285714285715,Humanities
+23978,Female,79,71,47,90,67,45,51,Drawing,Photography,Cricket,Athletics competition winner,English,64.28571428571429,Humanities
+55309,Female,100,87,40,48,75,59,53,Gardening,Cooking,Cricket,Math Olympiad winner,English,66.0,Humanities
+48167,Female,79,73,47,93,50,44,42,Drawing,Dance,Volleyball,Dance competition winner,English,61.142857142857146,Humanities
+65830,Male,68,84,49,62,54,48,49,Music,Art,Athletics,Chess competition winner,English,59.142857142857146,Humanities
+50094,Male,61,84,52,66,93,44,45,Drawing,History,Athletics,Debate competition winner,Hindi,63.57142857142857,Humanities
+96895,Female,73,84,48,98,85,40,40,Cooking,Art,Tennis,Debate competition winner,Hindi,66.85714285714286,Humanities
+89735,Male,44,99,58,48,80,53,49,Photography,Photography,Basketball,Dance competition winner,Hindi,61.57142857142857,Humanities
+89254,Male,85,91,59,54,61,42,42,Travelling,Art,Tennis,Science fair winner,English,62.0,Humanities
+9790,Male,70,85,44,100,67,59,52,Travelling,Music,Basketball,Dance competition winner,English,68.14285714285714,Humanities
+18106,Female,96,75,55,58,53,50,48,Reading,Music,Table Tennis,Art competition winner,English,62.142857142857146,Humanities
+45845,Female,61,71,46,44,70,43,44,Photography,Science,Volleyball,Math Olympiad winner,English,54.142857142857146,Humanities
+12483,Male,55,96,54,45,54,43,42,Photography,Programming,Basketball,Dance competition winner,Hindi,55.57142857142857,Humanities
+75400,Female,65,86,59,69,86,47,51,Drawing,Dance,Athletics,Athletics competition winner,Hindi,66.14285714285714,Humanities
+53314,Male,68,79,46,41,63,53,51,Reading,History,Basketball,Science fair winner,English,57.285714285714285,Humanities
+34979,Female,67,86,51,48,46,54,47,Reading,Art,Football,Athletics competition winner,Hindi,57.0,Humanities
+92436,Female,40,73,56,59,68,59,51,Gardening,Science,Football,Dance competition winner,English,58.0,Humanities
+33619,Female,68,94,56,96,80,46,44,Sports,Programming,Football,Math Olympiad winner,Hindi,69.14285714285714,Humanities
+75246,Male,71,83,41,66,44,58,57,Drawing,Programming,Tennis,Chess competition winner,Hindi,60.0,Humanities
+47952,Male,72,87,77,65,67,97,48,Music,Photography,Table Tennis,Debate competition winner,Hindi,73.28571428571429,Science
+41112,Male,53,89,69,64,92,81,43,Photography,Cooking,Swimming,Chess competition winner,Hindi,70.14285714285714,Science
+22464,Female,69,46,97,80,51,98,90,Drawing,Science,Athletics,Debate competition winner,English,75.85714285714286,Science
+85061,Male,53,68,97,41,79,77,77,Reading,Music,Football,Math Olympiad winner,Hindi,70.28571428571429,Science
+14205,Male,79,70,85,93,56,84,76,Photography,Dance,Swimming,Debate competition winner,English,77.57142857142857,Science
+42211,Male,44,92,48,50,59,93,51,Drawing,Programming,Table Tennis,Dance competition winner,Hindi,62.42857142857143,Science
+87932,Male,58,76,64,86,97,44,75,Travelling,Art,Basketball,Art competition winner,English,71.42857142857143,Science
+41517,Male,69,78,43,84,93,79,68,Photography,Music,Volleyball,Math Olympiad winner,Hindi,73.42857142857143,Science
+86407,Male,79,40,82,85,79,51,69,Music,Dance,Football,Science fair winner,English,69.28571428571429,Science
+50908,Female,97,72,72,69,60,94,44,Music,Dance,Football,Art competition winner,Hindi,72.57142857142857,Science
+48273,Male,47,63,98,72,64,69,42,Travelling,Photography,Swimming,Science fair winner,English,65.0,Science
+74682,Female,82,100,91,93,42,61,52,Cooking,Photography,Athletics,Athletics competition winner,Hindi,74.42857142857143,Science
+92571,Male,53,66,68,42,91,56,78,Travelling,Photography,Swimming,Dance competition winner,Hindi,64.85714285714286,Science
+41175,Male,100,90,65,65,40,99,59,Gardening,Photography,Swimming,Math Olympiad winner,English,74.0,Science
+21277,Female,100,63,83,96,92,63,79,Travelling,Dance,Cricket,Dance competition winner,Hindi,82.28571428571429,Science
+68548,Female,82,68,75,46,68,77,96,Photography,Art,Table Tennis,Athletics competition winner,Hindi,73.14285714285714,Science
+56408,Male,92,66,95,79,92,63,89,Gardening,Science,Cricket,Dance competition winner,English,82.28571428571429,Science
+49588,Female,57,70,99,69,91,56,67,Cooking,Art,Tennis,Math Olympiad winner,English,72.71428571428571,Science
+2376,Male,85,98,93,72,48,66,85,Drawing,History,Cricket,Music competition winner,Hindi,78.14285714285714,Science
+68481,Male,50,50,80,87,91,43,64,Reading,Photography,Table Tennis,Chess competition winner,Hindi,66.42857142857143,Science
+18067,Male,53,80,61,93,57,96,71,Cooking,Photography,Cricket,Dance competition winner,Hindi,73.0,Science
+51937,Male,44,59,89,55,42,83,82,Sports,Music,Football,Debate competition winner,English,64.85714285714286,Science
+27782,Male,75,76,98,49,92,91,53,Drawing,Art,Basketball,Art competition winner,English,76.28571428571429,Science
+37138,Male,66,44,96,47,50,60,47,Gardening,Art,Volleyball,Debate competition winner,Hindi,58.57142857142857,Science
+71064,Male,42,63,47,56,83,82,76,Travelling,Dance,Athletics,Art competition winner,English,64.14285714285714,Science
+98782,Male,87,64,87,78,78,69,57,Drawing,History,Cricket,Chess competition winner,English,74.28571428571429,Science
+68093,Male,90,59,54,83,80,77,90,Drawing,Science,Table Tennis,Chess competition winner,English,76.14285714285714,Science
+88409,Male,91,50,93,60,42,40,60,Music,Music,Cricket,Chess competition winner,English,62.285714285714285,Science
+82689,Female,50,69,82,83,53,69,56,Cooking,Art,Football,Debate competition winner,English,66.0,Science
+29008,Female,84,88,74,77,76,71,97,Cooking,Dance,Table Tennis,Chess competition winner,Hindi,81.0,Science
+42601,Female,68,66,78,69,94,75,94,Cooking,Programming,Swimming,Chess competition winner,Hindi,77.71428571428571,Science
+46728,Female,67,53,49,92,90,81,81,Drawing,Dance,Cricket,Math Olympiad winner,Hindi,73.28571428571429,Science
+92236,Female,65,61,47,61,79,52,97,Travelling,Music,Athletics,Science fair winner,Hindi,66.0,Science
+28547,Male,67,95,57,65,81,91,64,Gardening,Programming,Volleyball,Chess competition winner,Hindi,74.28571428571429,Science
+60620,Female,68,88,98,84,74,51,68,Photography,Cooking,Volleyball,Music competition winner,English,75.85714285714286,Science
+10219,Male,41,78,92,97,85,74,99,Music,History,Tennis,Science fair winner,English,80.85714285714286,Science
+5607,Female,77,40,85,81,54,54,91,Photography,Music,Basketball,Science fair winner,Hindi,68.85714285714286,Science
+8280,Male,76,71,83,78,44,78,70,Travelling,Photography,Table Tennis,Art competition winner,English,71.42857142857143,Science
+93988,Male,92,87,85,61,48,70,84,Reading,Art,Basketball,Athletics competition winner,English,75.28571428571429,Science
+47000,Female,72,74,61,44,85,50,89,Music,Programming,Swimming,Dance competition winner,English,67.85714285714286,Science
+35858,Female,72,90,76,59,67,83,86,Reading,Music,Volleyball,Chess competition winner,Hindi,76.14285714285714,Science
+29027,Female,67,61,80,45,63,60,74,Drawing,Photography,Volleyball,Math Olympiad winner,English,64.28571428571429,Science
+57234,Male,46,97,57,58,98,99,57,Photography,Photography,Swimming,Athletics competition winner,English,73.14285714285714,Science
+84041,Female,97,46,86,41,48,48,96,Travelling,Music,Swimming,Debate competition winner,English,66.0,Science
+93218,Male,87,83,100,75,62,87,41,Travelling,Cooking,Basketball,Art competition winner,English,76.42857142857143,Science
+78230,Female,73,97,98,82,61,48,66,Drawing,History,Cricket,Math Olympiad winner,Hindi,75.0,Science
+18811,Female,97,79,78,75,45,87,86,Cooking,Photography,Cricket,Debate competition winner,Hindi,78.14285714285714,Science
+10264,Female,100,83,89,50,60,74,63,Reading,Music,Table Tennis,Music competition winner,Hindi,74.14285714285714,Science
+86909,Male,75,71,91,61,78,92,99,Travelling,History,Tennis,Art competition winner,English,81.0,Science
+44444,Male,51,83,99,81,86,74,100,Reading,Dance,Basketball,Art competition winner,English,82.0,Science
+66570,Male,88,53,88,61,46,77,91,Photography,History,Table Tennis,Math Olympiad winner,Hindi,72.0,Science
+33923,Male,96,50,99,42,55,64,52,Travelling,Art,Tennis,Athletics competition winner,English,65.42857142857143,Science
+56883,Male,48,67,84,86,63,68,45,Music,Dance,Table Tennis,Athletics competition winner,English,65.85714285714286,Science
+61080,Male,73,67,83,88,92,54,72,Photography,Art,Cricket,Art competition winner,English,75.57142857142857,Science
+94192,Female,64,57,65,66,45,53,91,Reading,Programming,Basketball,Math Olympiad winner,Hindi,63.0,Science
+92314,Male,87,73,81,97,40,81,100,Photography,Dance,Tennis,Chess competition winner,Hindi,79.85714285714286,Science
+11248,Male,61,87,67,72,49,45,70,Music,Science,Basketball,Chess competition winner,English,64.42857142857143,Science
+92966,Male,80,44,75,89,69,70,92,Gardening,Photography,Athletics,Science fair winner,Hindi,74.14285714285714,Science
+4640,Female,87,86,73,86,87,75,71,Photography,Dance,Tennis,Math Olympiad winner,English,80.71428571428571,Science
+51878,Female,81,47,47,95,40,75,74,Reading,Photography,Cricket,Science fair winner,Hindi,65.57142857142857,Science
+83817,Female,61,72,59,91,67,97,65,Photography,Music,Football,Athletics competition winner,Hindi,73.14285714285714,Science
+92398,Female,96,77,42,71,90,81,72,Travelling,Photography,Football,Math Olympiad winner,Hindi,75.57142857142857,Science
+23927,Male,73,48,60,57,71,99,52,Reading,Music,Volleyball,Math Olympiad winner,English,65.71428571428571,Science
+6590,Male,70,100,53,58,84,78,41,Gardening,Cooking,Cricket,Athletics competition winner,English,69.14285714285714,Science
+53877,Female,74,69,58,53,59,98,42,Cooking,Cooking,Football,Chess competition winner,Hindi,64.71428571428571,Science
+88718,Male,53,55,90,51,98,93,55,Reading,Science,Tennis,Art competition winner,Hindi,70.71428571428571,Science
+67191,Male,61,92,59,77,43,95,86,Drawing,History,Table Tennis,Music competition winner,English,73.28571428571429,Science
+58958,Male,49,70,94,90,96,94,64,Cooking,Art,Cricket,Athletics competition winner,English,79.57142857142857,Science
+95606,Female,56,50,72,79,50,83,92,Travelling,Dance,Swimming,Dance competition winner,English,68.85714285714286,Science
+57001,Female,75,43,91,51,51,63,64,Cooking,Cooking,Swimming,Art competition winner,English,62.57142857142857,Science
+80330,Male,46,91,64,69,100,79,64,Travelling,History,Athletics,Math Olympiad winner,English,73.28571428571429,Science
+3398,Male,62,53,94,97,89,45,81,Music,Cooking,Table Tennis,Debate competition winner,Hindi,74.42857142857143,Science
+54079,Male,66,69,66,47,48,53,61,Music,Science,Volleyball,Science fair winner,English,58.57142857142857,Science
+88071,Female,98,99,93,45,84,65,77,Photography,Music,Tennis,Music competition winner,English,80.14285714285714,Science
+47287,Female,65,42,66,62,68,76,62,Travelling,Programming,Football,Debate competition winner,English,63.0,Science
+36461,Female,87,86,42,50,84,79,54,Cooking,Programming,Volleyball,Music competition winner,English,68.85714285714286,Science
+30300,Male,97,51,42,75,72,42,70,Music,Science,Tennis,Chess competition winner,English,64.14285714285714,Science
+65456,Male,48,68,51,50,65,79,54,Travelling,Music,Swimming,Math Olympiad winner,English,59.285714285714285,Science
+89468,Male,70,40,74,100,84,95,44,Cooking,Music,Volleyball,Dance competition winner,English,72.42857142857143,Science
+17541,Female,58,94,59,78,60,59,77,Drawing,Dance,Table Tennis,Art competition winner,English,69.28571428571429,Science
+18070,Female,65,93,94,55,53,75,84,Drawing,History,Table Tennis,Chess competition winner,English,74.14285714285714,Science
+15430,Female,82,46,55,53,63,42,76,Photography,Music,Volleyball,Math Olympiad winner,English,59.57142857142857,Science
+90131,Female,59,59,77,60,63,73,60,Cooking,Cooking,Table Tennis,Art competition winner,English,64.42857142857143,Science
+43905,Female,76,77,64,49,80,66,78,Gardening,Cooking,Tennis,Math Olympiad winner,Hindi,70.0,Science
+23389,Female,69,88,45,50,65,80,73,Gardening,Programming,Volleyball,Math Olympiad winner,Hindi,67.14285714285714,Science
+86271,Female,77,77,49,95,82,76,84,Drawing,Cooking,Tennis,Science fair winner,Hindi,77.14285714285714,Science
+60307,Male,74,60,88,56,59,72,75,Music,Dance,Cricket,Dance competition winner,English,69.14285714285714,Science
+66022,Male,53,67,76,58,45,44,85,Gardening,Photography,Volleyball,Science fair winner,Hindi,61.142857142857146,Science
+78732,Male,89,79,77,94,49,98,82,Photography,History,Cricket,Music competition winner,English,81.14285714285714,Science
+27313,Female,98,67,71,44,40,99,68,Music,Cooking,Volleyball,Debate competition winner,Hindi,69.57142857142857,Science
+3865,Male,67,51,88,88,57,83,51,Music,Dance,Basketball,Debate competition winner,English,69.28571428571429,Science
+66920,Female,61,78,98,59,81,65,94,Photography,Dance,Tennis,Science fair winner,English,76.57142857142857,Science
+87654,Female,54,62,46,91,91,93,61,Drawing,Music,Tennis,Science fair winner,English,71.14285714285714,Science
+35728,Female,40,43,100,94,44,78,40,Music,Photography,Football,Music competition winner,English,62.714285714285715,Science
+38498,Male,87,57,62,52,66,56,89,Travelling,History,Volleyball,Chess competition winner,English,67.0,Science
+35992,Male,62,95,85,91,78,69,96,Photography,History,Basketball,Dance competition winner,English,82.28571428571429,Science
+77064,Female,89,52,68,47,65,89,72,Travelling,History,Tennis,Debate competition winner,Hindi,68.85714285714286,Science
+48446,Male,82,57,64,77,87,93,46,Photography,Programming,Cricket,Athletics competition winner,Hindi,72.28571428571429,Science
+6192,Female,57,45,86,66,54,74,88,Music,History,Table Tennis,Music competition winner,Hindi,67.14285714285714,Science
+94217,Male,63,53,82,58,56,91,99,Photography,Programming,Table Tennis,Debate competition winner,English,71.71428571428571,Science
+6824,Male,91,96,72,83,58,94,75,Music,Art,Swimming,Dance competition winner,Hindi,81.28571428571429,Science
+98314,Female,54,77,88,46,90,72,53,Travelling,Science,Swimming,Chess competition winner,English,68.57142857142857,Science
+49277,Male,44,46,42,87,72,48,88,Drawing,Programming,Volleyball,Art competition winner,Hindi,61.0,Science
+91092,Male,53,94,96,48,83,48,69,Gardening,History,Volleyball,Math Olympiad winner,Hindi,70.14285714285714,Science
+19173,Female,49,100,80,59,59,44,70,Gardening,Cooking,Volleyball,Art competition winner,English,65.85714285714286,Science
+10422,Male,40,50,92,51,60,42,81,Music,Dance,Athletics,Art competition winner,English,59.42857142857143,Science
+88780,Male,79,98,93,92,61,64,70,Reading,Cooking,Cricket,Music competition winner,English,79.57142857142857,Science
+39956,Female,56,84,43,72,86,70,75,Cooking,Programming,Cricket,Dance competition winner,English,69.42857142857143,Science
+89377,Female,97,91,50,81,80,43,83,Drawing,Dance,Cricket,Art competition winner,Hindi,75.0,Science
+70549,Female,100,64,80,64,51,80,52,Cooking,Art,Cricket,Debate competition winner,English,70.14285714285714,Science
+3285,Female,56,71,45,85,69,80,73,Drawing,Cooking,Tennis,Science fair winner,English,68.42857142857143,Science
+41476,Female,57,66,61,81,46,90,86,Travelling,Photography,Basketball,Music competition winner,English,69.57142857142857,Science
+28877,Male,67,84,74,62,88,92,86,Reading,Science,Athletics,Debate competition winner,English,79.0,Science
+46127,Male,94,86,76,88,89,85,45,Cooking,Photography,Basketball,Music competition winner,English,80.42857142857143,Science
+38623,Female,86,60,41,73,60,88,90,Music,Programming,Football,Chess competition winner,Hindi,71.14285714285714,Science
+61937,Male,98,88,51,66,51,91,72,Music,Music,Football,Math Olympiad winner,Hindi,73.85714285714286,Science
+88680,Male,74,96,52,92,76,91,63,Gardening,Science,Swimming,Science fair winner,English,77.71428571428571,Science
+83745,Male,96,48,50,80,48,50,78,Drawing,Music,Swimming,Art competition winner,Hindi,64.28571428571429,Science
+46161,Female,60,42,66,55,92,58,99,Reading,Dance,Football,Math Olympiad winner,Hindi,67.42857142857143,Science
+34826,Female,53,88,94,81,73,79,68,Gardening,Dance,Table Tennis,Chess competition winner,Hindi,76.57142857142857,Science
+456,Female,75,76,96,42,43,55,67,Music,Dance,Athletics,Math Olympiad winner,Hindi,64.85714285714286,Science
+10177,Female,78,76,98,61,100,41,82,Photography,Music,Athletics,Athletics competition winner,English,76.57142857142857,Science
+13730,Female,85,55,83,50,100,62,85,Gardening,Dance,Swimming,Art competition winner,Hindi,74.28571428571429,Science
+70055,Female,51,99,52,64,47,82,87,Gardening,Programming,Volleyball,Science fair winner,English,68.85714285714286,Science
+29766,Female,64,71,58,40,47,100,57,Photography,History,Tennis,Athletics competition winner,Hindi,62.42857142857143,Science
+12643,Female,90,96,74,40,76,52,94,Photography,Art,Tennis,Math Olympiad winner,Hindi,74.57142857142857,Science
+27883,Male,84,61,71,49,70,80,54,Cooking,Dance,Volleyball,Science fair winner,English,67.0,Science
+30671,Female,61,45,74,40,72,82,40,Reading,History,Swimming,Music competition winner,English,59.142857142857146,Science
+23582,Male,100,57,52,76,55,95,76,Travelling,Music,Athletics,Art competition winner,Hindi,73.0,Science
+41491,Male,46,86,88,62,68,70,70,Photography,Art,Athletics,Debate competition winner,Hindi,70.0,Science
+90809,Male,82,80,77,67,86,97,96,Reading,Science,Swimming,Math Olympiad winner,Hindi,83.57142857142857,Science
+23339,Female,80,57,61,91,65,58,81,Travelling,History,Volleyball,Science fair winner,English,70.42857142857143,Science
+56760,Male,86,61,69,89,65,83,94,Gardening,Programming,Tennis,Debate competition winner,English,78.14285714285714,Science
+53039,Female,98,88,82,58,73,45,85,Music,Art,Cricket,Dance competition winner,Hindi,75.57142857142857,Science
+58520,Female,59,64,44,79,67,59,79,Drawing,Science,Athletics,Debate competition winner,English,64.42857142857143,Science
+97288,Male,51,59,65,83,94,49,90,Music,Dance,Football,Music competition winner,English,70.14285714285714,Science
+68421,Female,59,52,47,90,44,70,44,Cooking,Science,Football,Math Olympiad winner,Hindi,58.0,Science
+68892,Female,89,82,40,44,78,75,85,Photography,Programming,Athletics,Dance competition winner,Hindi,70.42857142857143,Science
+72342,Male,42,60,63,45,82,80,51,Cooking,Music,Volleyball,Chess competition winner,Hindi,60.42857142857143,Science
+51032,Male,48,97,67,97,100,54,89,Drawing,History,Basketball,Music competition winner,English,78.85714285714286,Science
+62935,Male,88,87,59,42,74,42,89,Reading,Music,Swimming,Music competition winner,Hindi,68.71428571428571,Science
+28505,Male,55,53,73,59,99,49,77,Cooking,Art,Basketball,Athletics competition winner,Hindi,66.42857142857143,Science
+93456,Female,68,59,63,42,53,96,89,Gardening,Photography,Tennis,Debate competition winner,Hindi,67.14285714285714,Science
+94895,Female,78,55,83,49,79,88,81,Photography,Programming,Volleyball,Art competition winner,Hindi,73.28571428571429,Science
+99639,Female,40,40,86,95,97,53,95,Cooking,Photography,Athletics,Science fair winner,English,72.28571428571429,Science
+34646,Male,49,69,84,88,92,98,48,Reading,Programming,Table Tennis,Dance competition winner,English,75.42857142857143,Science
+59471,Female,93,40,68,59,58,99,40,Reading,Dance,Basketball,Science fair winner,Hindi,65.28571428571429,Science
+51515,Male,72,87,44,66,97,72,75,Drawing,Programming,Football,Dance competition winner,English,73.28571428571429,Science
+58508,Male,88,96,77,48,55,67,42,Photography,Art,Athletics,Athletics competition winner,English,67.57142857142857,Science
+61767,Female,47,46,65,94,40,46,71,Reading,Science,Cricket,Math Olympiad winner,English,58.42857142857143,Science
+66864,Male,44,70,87,70,76,93,86,Music,Programming,Athletics,Music competition winner,Hindi,75.14285714285714,Science
+52339,Male,98,48,79,71,51,48,79,Photography,Programming,Volleyball,Art competition winner,Hindi,67.71428571428571,Science
+74525,Female,97,64,90,85,90,81,65,Music,History,Athletics,Chess competition winner,English,81.71428571428571,Science
+12059,Female,71,64,77,81,65,82,43,Photography,Science,Football,Athletics competition winner,English,69.0,Science
+10136,Male,100,95,97,58,54,69,48,Reading,Cooking,Tennis,Debate competition winner,English,74.42857142857143,Science
+71273,Male,86,52,58,54,69,70,94,Cooking,Cooking,Table Tennis,Science fair winner,Hindi,69.0,Science
+733,Male,78,72,99,91,64,84,54,Cooking,Music,Table Tennis,Art competition winner,English,77.42857142857143,Science
+42797,Male,40,52,54,89,89,71,90,Cooking,Dance,Volleyball,Athletics competition winner,Hindi,69.28571428571429,Science
+41029,Female,47,74,92,48,99,51,72,Gardening,Photography,Basketball,Science fair winner,English,69.0,Science
+29147,Female,67,85,76,74,43,98,45,Photography,Dance,Athletics,Dance competition winner,English,69.71428571428571,Science
+43058,Male,88,78,46,93,65,85,40,Drawing,Science,Basketball,Dance competition winner,Hindi,70.71428571428571,Science
+49005,Male,81,99,85,85,59,86,65,Cooking,Music,Table Tennis,Music competition winner,Hindi,80.0,Science
+22705,Male,91,73,87,73,67,43,71,Drawing,Dance,Table Tennis,Chess competition winner,English,72.14285714285714,Science
+32403,Male,49,94,90,47,72,69,87,Music,Music,Tennis,Debate competition winner,English,72.57142857142857,Science
+39778,Male,97,91,86,79,76,87,77,Reading,Photography,Table Tennis,Art competition winner,English,84.71428571428571,Science
+40198,Female,44,83,50,93,45,75,79,Travelling,Dance,Swimming,Art competition winner,English,67.0,Science
+44885,Male,78,57,93,98,61,43,91,Photography,Dance,Swimming,Music competition winner,English,74.42857142857143,Science
+5217,Male,43,44,100,82,99,49,85,Music,History,Football,Athletics competition winner,English,71.71428571428571,Science
+69922,Male,75,50,53,85,43,49,83,Gardening,Music,Football,Dance competition winner,English,62.57142857142857,Science
+57724,Female,64,71,95,72,64,77,41,Music,Music,Basketball,Dance competition winner,English,69.14285714285714,Science
+69155,Male,97,46,94,82,71,88,54,Music,Science,Basketball,Athletics competition winner,Hindi,76.0,Science
+79225,Male,58,49,64,60,80,93,92,Gardening,Music,Volleyball,Science fair winner,English,70.85714285714286,Science
+3813,Male,50,59,82,93,43,88,71,Travelling,Dance,Table Tennis,Debate competition winner,English,69.42857142857143,Science
+79440,Female,69,44,89,98,62,69,40,Travelling,Music,Football,Math Olympiad winner,English,67.28571428571429,Science
+63609,Female,64,91,98,46,62,97,40,Music,Photography,Athletics,Chess competition winner,Hindi,71.14285714285714,Science
+73001,Female,91,83,83,100,74,41,94,Travelling,Programming,Volleyball,Athletics competition winner,Hindi,80.85714285714286,Science
+84317,Male,71,91,84,46,86,93,70,Drawing,History,Basketball,Dance competition winner,Hindi,77.28571428571429,Science
+19974,Female,56,67,63,50,59,96,43,Reading,Science,Tennis,Athletics competition winner,English,62.0,Science
+37476,Male,79,82,93,79,61,68,76,Cooking,Science,Basketball,Art competition winner,Hindi,76.85714285714286,Science
+52807,Male,92,77,50,41,65,86,75,Reading,History,Basketball,Music competition winner,Hindi,69.42857142857143,Science
+64500,Female,84,81,88,54,83,52,63,Cooking,Science,Table Tennis,Chess competition winner,Hindi,72.14285714285714,Science
+47748,Female,61,45,48,75,86,82,62,Cooking,Programming,Cricket,Art competition winner,English,65.57142857142857,Science
+84692,Male,96,77,74,47,92,60,62,Photography,Science,Football,Music competition winner,Hindi,72.57142857142857,Science
+55001,Male,65,42,45,58,49,90,52,Travelling,Art,Swimming,Math Olympiad winner,Hindi,57.285714285714285,Science
+429,Female,95,79,74,93,69,60,97,Travelling,Science,Table Tennis,Debate competition winner,English,81.0,Science
+86781,Male,84,41,81,65,63,82,85,Sports,Science,Tennis,Science fair winner,English,71.57142857142857,Science
+94069,Female,46,92,91,44,92,99,67,Travelling,Programming,Volleyball,Music competition winner,English,75.85714285714286,Science
+9277,Male,80,43,78,75,64,98,95,Gardening,Cooking,Basketball,Music competition winner,English,76.14285714285714,Science
+36536,Male,90,95,60,57,57,72,78,Travelling,Cooking,Basketball,Art competition winner,Hindi,72.71428571428571,Science
+75313,Male,55,92,100,60,43,64,98,Reading,History,Cricket,Dance competition winner,English,73.14285714285714,Science
+49169,Female,79,92,74,84,77,86,92,Cooking,Music,Athletics,Math Olympiad winner,Hindi,83.42857142857143,Science
+41282,Female,61,96,77,49,92,85,93,Sports,Cooking,Volleyball,Athletics competition winner,Hindi,79.0,Science
+87413,Female,94,58,49,90,47,66,94,Music,Cooking,Cricket,Chess competition winner,English,71.14285714285714,Science
+89855,Female,45,47,61,40,66,84,82,Gardening,Programming,Cricket,Art competition winner,Hindi,60.714285714285715,Science
+30881,Male,88,74,45,45,46,54,92,Reading,Art,Table Tennis,Art competition winner,English,63.42857142857143,Science
+90600,Female,69,89,99,41,83,98,94,Travelling,Art,Table Tennis,Debate competition winner,Hindi,81.85714285714286,Science
+34887,Male,97,45,83,82,55,93,54,Cooking,Cooking,Swimming,Music competition winner,Hindi,72.71428571428571,Science
+15170,Female,87,54,79,45,85,64,49,Gardening,Science,Football,Art competition winner,Hindi,66.14285714285714,Science
+2542,Female,76,81,85,71,49,47,81,Reading,Dance,Swimming,Science fair winner,English,70.0,Science
+84097,Male,94,40,52,59,45,78,87,Drawing,Programming,Volleyball,Chess competition winner,English,65.0,Science
+48627,Male,95,74,94,79,74,43,91,Photography,Music,Swimming,Science fair winner,Hindi,78.57142857142857,Science
+30309,Male,43,52,98,65,50,74,82,Cooking,Photography,Athletics,Athletics competition winner,Hindi,66.28571428571429,Science
+59980,Female,68,64,45,90,80,67,86,Photography,Cooking,Cricket,Math Olympiad winner,English,71.42857142857143,Science
+59741,Female,42,83,82,43,67,73,89,Music,History,Table Tennis,Math Olympiad winner,English,68.42857142857143,Science
+52277,Female,64,90,66,41,94,62,92,Reading,Programming,Football,Dance competition winner,Hindi,72.71428571428571,Science
+86130,Female,58,49,41,77,65,77,64,Drawing,Dance,Swimming,Dance competition winner,Hindi,61.57142857142857,Science
+22453,Male,44,61,98,53,63,61,72,Music,History,Football,Dance competition winner,English,64.57142857142857,Science
+53102,Female,46,68,62,55,61,44,98,Travelling,History,Volleyball,Athletics competition winner,English,62.0,Science
+98811,Female,86,53,66,80,93,56,86,Drawing,Cooking,Cricket,Science fair winner,English,74.28571428571429,Science
+1022,Male,77,83,93,79,92,52,92,Music,Photography,Table Tennis,Art competition winner,Hindi,81.14285714285714,Science
+57706,Female,43,48,51,84,49,96,42,Photography,Cooking,Football,Science fair winner,Hindi,59.0,Science
+72408,Female,77,96,46,67,83,80,55,Drawing,Photography,Table Tennis,Music competition winner,English,72.0,Science
+12242,Female,44,77,93,70,98,77,85,Photography,Science,Basketball,Art competition winner,English,77.71428571428571,Science
+72445,Female,64,61,58,42,80,89,60,Cooking,Music,Tennis,Art competition winner,Hindi,64.85714285714286,Science
+6554,Female,55,86,98,52,76,77,98,Sports,Dance,Basketball,Science fair winner,English,77.42857142857143,Science
+87049,Male,61,70,68,81,100,87,76,Music,History,Table Tennis,Music competition winner,Hindi,77.57142857142857,Science
+43672,Female,77,57,84,47,42,92,76,Music,Music,Basketball,Athletics competition winner,English,67.85714285714286,Science
+65612,Male,81,47,78,60,61,95,90,Cooking,Art,Cricket,Dance competition winner,Hindi,73.14285714285714,Science
+1598,Male,71,64,85,44,84,69,100,Music,Science,Tennis,Dance competition winner,English,73.85714285714286,Science
+75935,Male,43,52,87,85,62,95,48,Gardening,Music,Football,Debate competition winner,English,67.42857142857143,Science
+67442,Female,74,55,43,76,50,91,78,Travelling,Music,Table Tennis,Chess competition winner,English,66.71428571428571,Science
+57353,Female,62,50,52,96,80,81,67,Drawing,Music,Football,Math Olympiad winner,English,69.71428571428571,Science
+4372,Female,75,71,46,57,69,86,73,Music,Programming,Cricket,Music competition winner,Hindi,68.14285714285714,Science
+89729,Male,52,85,44,87,47,71,85,Cooking,Art,Athletics,Athletics competition winner,English,67.28571428571429,Science
+6258,Female,80,89,72,47,58,95,95,Music,Programming,Tennis,Art competition winner,Hindi,76.57142857142857,Science
+23567,Male,92,95,87,86,53,64,85,Reading,Programming,Football,Debate competition winner,English,80.28571428571429,Science
+86940,Female,74,92,48,64,79,63,80,Reading,Programming,Cricket,Science fair winner,English,71.42857142857143,Science
+83486,Female,78,66,63,57,97,87,77,Drawing,Art,Football,Athletics competition winner,English,75.0,Science
+90308,Female,83,54,84,80,55,52,73,Reading,Dance,Football,Music competition winner,Hindi,68.71428571428571,Science
+89138,Female,89,76,72,89,53,81,90,Music,Art,Volleyball,Chess competition winner,Hindi,78.57142857142857,Science
+81693,Male,73,59,98,60,77,49,82,Drawing,Cooking,Athletics,Athletics competition winner,Hindi,71.14285714285714,Science
+83309,Female,62,58,81,60,76,60,84,Drawing,Cooking,Tennis,Dance competition winner,Hindi,68.71428571428571,Science
+57161,Male,70,57,45,100,88,100,88,Photography,History,Cricket,Athletics competition winner,Hindi,78.28571428571429,Science
+4032,Male,92,69,88,71,44,100,45,Photography,Cooking,Basketball,Art competition winner,Hindi,72.71428571428571,Science
+10472,Female,79,85,100,56,84,74,75,Music,Dance,Cricket,Art competition winner,Hindi,79.0,Science
+4293,Male,56,41,60,82,91,95,58,Music,Art,Table Tennis,Debate competition winner,English,69.0,Science
+88335,Female,96,65,62,54,90,66,87,Cooking,Programming,Basketball,Chess competition winner,Hindi,74.28571428571429,Science
+45224,Female,67,91,53,76,89,98,53,Photography,Art,Swimming,Chess competition winner,Hindi,75.28571428571429,Science
+96186,Male,89,41,54,87,77,60,78,Reading,Cooking,Tennis,Dance competition winner,Hindi,69.42857142857143,Science
+36410,Female,95,51,41,93,96,97,40,Drawing,Art,Swimming,Science fair winner,English,73.28571428571429,Science
+35883,Female,100,57,91,99,52,66,70,Drawing,Dance,Table Tennis,Debate competition winner,English,76.42857142857143,Science
+62731,Male,45,93,90,90,64,99,83,Drawing,Photography,Football,Dance competition winner,English,80.57142857142857,Science
+11479,Male,78,53,75,85,93,81,57,Cooking,Art,Tennis,Dance competition winner,English,74.57142857142857,Science
+19812,Female,57,49,100,62,65,93,56,Gardening,Dance,Swimming,Athletics competition winner,English,68.85714285714286,Science
+31110,Male,94,74,93,97,82,41,64,Photography,Art,Basketball,Science fair winner,English,77.85714285714286,Science
+39307,Female,66,53,52,55,65,48,82,Photography,Programming,Cricket,Chess competition winner,English,60.142857142857146,Science
+422,Female,92,66,45,88,59,74,90,Photography,History,Tennis,Dance competition winner,English,73.42857142857143,Science
+51869,Female,93,63,65,55,99,98,46,Music,Dance,Table Tennis,Math Olympiad winner,Hindi,74.14285714285714,Science
+89143,Male,66,42,87,92,99,66,42,Drawing,Art,Volleyball,Science fair winner,Hindi,70.57142857142857,Science
+31263,Female,44,53,85,87,40,94,52,Reading,Photography,Basketball,Chess competition winner,Hindi,65.0,Science
+82958,Male,49,95,64,79,82,95,81,Sports,Art,Athletics,Science fair winner,Hindi,77.85714285714286,Sports
+8334,Male,89,86,63,79,83,71,68,Sports,Art,Athletics,Music competition winner,Hindi,77.0,Sports
+89926,Male,98,59,76,60,52,99,74,Sports,Art,Volleyball,Science fair winner,Hindi,74.0,Sports
+3720,Female,74,97,78,69,58,59,97,Sports,Cooking,Basketball,Chess competition winner,English,76.0,Sports
+36965,Male,52,58,40,70,44,42,56,Gardening,Cooking,Basketball,Dance competition winner,Hindi,51.714285714285715,Sports
+52752,Male,54,59,71,76,66,60,84,Sports,History,Athletics,Math Olympiad winner,English,67.14285714285714,Sports
+41708,Female,83,57,42,62,52,45,67,Sports,Dance,Volleyball,Music competition winner,English,58.285714285714285,Sports
+6625,Female,49,71,69,100,55,75,93,Sports,Music,Tennis,Athletics competition winner,Hindi,73.14285714285714,Sports
+90788,Female,75,43,70,61,87,54,60,Sports,Dance,Basketball,Dance competition winner,English,64.28571428571429,Sports
+8763,Female,80,68,66,66,45,91,70,Sports,Photography,Tennis,Debate competition winner,English,69.42857142857143,Sports
+10437,Female,85,61,47,41,73,53,53,Travelling,Science,Basketball,Athletics competition winner,English,59.0,Sports
+13852,Male,70,59,63,88,80,72,56,Sports,History,Basketball,Debate competition winner,Hindi,69.71428571428571,Sports
+26987,Female,69,42,59,45,82,76,97,Sports,Science,Athletics,Chess competition winner,Hindi,67.14285714285714,Sports
+12790,Female,58,68,54,45,63,52,48,Cooking,History,Basketball,Math Olympiad winner,English,55.42857142857143,Sports
+25422,Male,61,68,94,76,74,78,65,Sports,Science,Basketball,Chess competition winner,Hindi,73.71428571428571,Sports
+77337,Female,63,75,67,84,62,69,85,Sports,Music,Cricket,Chess competition winner,English,72.14285714285714,Sports
+17617,Male,68,45,67,99,64,60,53,Sports,Photography,Basketball,Dance competition winner,English,65.14285714285714,Sports
+29532,Male,67,53,98,75,81,100,53,Sports,Music,Football,Chess competition winner,Hindi,75.28571428571429,Sports
+58363,Female,52,92,73,93,93,92,90,Sports,History,Tennis,Dance competition winner,English,83.57142857142857,Sports
+945,Male,53,42,82,49,51,49,75,Sports,Dance,Swimming,Chess competition winner,English,57.285714285714285,Sports
+31669,Female,47,46,77,58,54,63,42,Sports,Dance,Basketball,Music competition winner,Hindi,55.285714285714285,Sports
+94399,Female,97,42,69,54,58,53,86,Sports,Art,Table Tennis,Science fair winner,English,65.57142857142857,Sports
+27181,Male,95,59,43,87,57,80,73,Sports,Dance,Cricket,Athletics competition winner,English,70.57142857142857,Sports
+27128,Male,78,81,53,78,94,84,45,Sports,Programming,Volleyball,Chess competition winner,Hindi,73.28571428571429,Sports
+20719,Male,80,100,68,73,45,76,68,Sports,Art,Volleyball,Athletics competition winner,English,72.85714285714286,Sports
+59026,Female,80,57,60,96,72,80,66,Sports,Music,Tennis,Science fair winner,English,73.0,Sports
+33877,Male,66,53,72,44,54,60,68,Sports,Photography,Cricket,Music competition winner,Hindi,59.57142857142857,Sports
+42625,Female,46,86,58,61,92,90,57,Sports,Music,Tennis,Music competition winner,English,70.0,Sports
+55496,Male,98,68,40,74,58,46,45,Sports,Photography,Table Tennis,Chess competition winner,English,61.285714285714285,Sports
+75796,Female,66,70,61,97,90,70,78,Sports,Science,Cricket,Athletics competition winner,English,76.0,Sports
+97396,Male,88,63,64,44,63,49,97,Sports,Dance,Cricket,Dance competition winner,English,66.85714285714286,Sports
+55959,Male,74,87,95,50,85,79,73,Sports,History,Tennis,Music competition winner,Hindi,77.57142857142857,Sports
+26719,Female,90,55,67,41,69,72,75,Sports,Art,Basketball,Chess competition winner,Hindi,67.0,Sports
+51776,Female,82,86,47,78,66,96,93,Sports,Art,Basketball,Athletics competition winner,Hindi,78.28571428571429,Sports
+29341,Male,94,66,55,67,44,42,43,Sports,Photography,Swimming,Dance competition winner,English,58.714285714285715,Sports
+14109,Male,57,67,94,51,44,90,45,Sports,Programming,Basketball,Math Olympiad winner,English,64.0,Sports
+85957,Male,44,86,95,58,100,87,69,Sports,History,Swimming,Dance competition winner,Hindi,77.0,Sports
+22536,Male,87,91,63,54,44,75,75,Sports,Dance,Swimming,Music competition winner,English,69.85714285714286,Sports
+54564,Female,54,44,57,79,54,60,100,Sports,Cooking,Basketball,Athletics competition winner,Hindi,64.0,Sports
+25929,Female,78,83,100,77,74,41,62,Sports,Programming,Football,Science fair winner,Hindi,73.57142857142857,Sports
+71958,Female,48,100,99,89,51,84,71,Sports,Programming,Athletics,Dance competition winner,Hindi,77.42857142857143,Sports
+5443,Female,95,93,60,58,55,81,68,Sports,Photography,Basketball,Math Olympiad winner,Hindi,72.85714285714286,Sports
+8615,Female,42,66,44,67,87,64,56,Sports,History,Volleyball,Science fair winner,Hindi,60.857142857142854,Sports
+18107,Female,69,79,79,69,43,62,90,Sports,Music,Table Tennis,Math Olympiad winner,English,70.14285714285714,Sports
+48463,Female,74,49,99,87,92,60,41,Sports,Music,Swimming,Music competition winner,English,71.71428571428571,Sports
+46220,Female,89,59,44,59,94,48,53,Gardening,Cooking,Basketball,Chess competition winner,Hindi,63.714285714285715,Sports
+64426,Male,97,98,58,95,51,84,48,Sports,Cooking,Athletics,Science fair winner,Hindi,75.85714285714286,Sports
+76656,Female,66,86,69,64,52,79,78,Sports,Science,Athletics,Art competition winner,English,70.57142857142857,Sports
+78045,Female,67,70,41,93,54,50,93,Sports,Dance,Basketball,Debate competition winner,English,66.85714285714286,Sports
+87302,Male,68,41,51,73,81,56,43,Gardening,Cooking,Athletics,Music competition winner,Hindi,59.0,Sports
+12659,Female,69,80,78,49,57,53,85,Sports,History,Tennis,Debate competition winner,Hindi,67.28571428571429,Sports
+83782,Male,50,78,69,71,86,41,99,Sports,Art,Tennis,Athletics competition winner,English,70.57142857142857,Sports
+79501,Female,60,63,85,54,86,88,67,Sports,Dance,Table Tennis,Athletics competition winner,English,71.85714285714286,Sports
+53544,Male,88,49,55,96,78,43,56,Music,Dance,Volleyball,Athletics competition winner,English,66.42857142857143,Sports
+30196,Female,49,93,62,43,79,96,54,Sports,Art,Volleyball,Math Olympiad winner,English,68.0,Sports
+6750,Female,73,73,56,80,86,69,51,Sports,Dance,Table Tennis,Music competition winner,Hindi,69.71428571428571,Sports
+92257,Male,56,46,94,44,67,95,66,Sports,Dance,Basketball,Athletics competition winner,Hindi,66.85714285714286,Sports
+83171,Male,72,41,56,58,79,47,92,Sports,Science,Swimming,Athletics competition winner,English,63.57142857142857,Sports
+57204,Female,56,43,63,84,62,56,87,Sports,Programming,Table Tennis,Art competition winner,English,64.42857142857143,Sports
+35521,Male,48,81,80,92,61,61,71,Sports,Programming,Table Tennis,Math Olympiad winner,Hindi,70.57142857142857,Sports
+95418,Female,80,68,99,58,50,83,41,Sports,Music,Cricket,Music competition winner,Hindi,68.42857142857143,Sports
+37494,Female,77,41,46,50,50,58,52,Drawing,Science,Swimming,Dance competition winner,Hindi,53.42857142857143,Sports
+43949,Male,50,81,62,74,60,69,81,Sports,Programming,Table Tennis,Science fair winner,English,68.14285714285714,Sports
+11675,Male,67,46,98,77,71,57,69,Sports,Music,Basketball,Science fair winner,Hindi,69.28571428571429,Sports
+81871,Male,87,51,81,99,95,85,42,Sports,Cooking,Swimming,Debate competition winner,English,77.14285714285714,Sports
+11366,Male,78,52,99,82,86,89,50,Sports,Art,Cricket,Debate competition winner,Hindi,76.57142857142857,Sports
+28470,Male,73,47,93,43,91,82,48,Sports,Art,Volleyball,Chess competition winner,Hindi,68.14285714285714,Sports
+75755,Male,87,42,72,41,76,44,88,Sports,Science,Athletics,Art competition winner,Hindi,64.28571428571429,Sports
+50968,Female,72,82,63,63,50,98,54,Sports,Programming,Football,Music competition winner,Hindi,68.85714285714286,Sports
+45927,Male,96,46,44,52,77,58,60,Sports,Music,Swimming,Art competition winner,English,61.857142857142854,Sports
+84241,Female,57,57,50,51,46,58,57,Sports,Cooking,Football,Dance competition winner,Hindi,53.714285714285715,Sports
+74307,Female,96,66,46,49,49,54,54,Sports,Cooking,Cricket,Art competition winner,Hindi,59.142857142857146,Sports
+25550,Female,85,71,47,96,68,98,60,Sports,Art,Swimming,Debate competition winner,English,75.0,Sports
+33453,Female,50,69,60,91,74,80,80,Sports,Cooking,Volleyball,Dance competition winner,English,72.0,Sports
+42416,Female,71,58,45,92,63,76,48,Sports,Science,Tennis,Music competition winner,English,64.71428571428571,Sports
+10809,Male,79,76,67,48,42,74,60,Sports,Music,Table Tennis,Music competition winner,English,63.714285714285715,Sports
+84603,Female,57,91,51,79,54,82,63,Sports,Photography,Athletics,Chess competition winner,Hindi,68.14285714285714,Sports
+11296,Male,50,90,67,80,81,81,75,Sports,Music,Table Tennis,Science fair winner,Hindi,74.85714285714286,Sports
+80396,Female,61,78,41,74,59,47,77,Sports,Art,Tennis,Art competition winner,English,62.42857142857143,Sports
+43214,Male,89,97,75,52,46,65,72,Sports,Cooking,Table Tennis,Math Olympiad winner,English,70.85714285714286,Sports
+33569,Female,60,96,77,47,100,56,75,Sports,Science,Football,Dance competition winner,Hindi,73.0,Sports
+29174,Female,77,78,100,57,72,70,98,Sports,History,Basketball,Chess competition winner,English,78.85714285714286,Sports
+76599,Female,72,65,51,58,57,54,46,Gardening,Programming,Cricket,Dance competition winner,Hindi,57.57142857142857,Sports
+98559,Female,84,99,80,57,83,62,42,Sports,Cooking,Table Tennis,Athletics competition winner,English,72.42857142857143,Sports
+54251,Male,91,94,42,85,84,62,41,Sports,Music,Cricket,Art competition winner,Hindi,71.28571428571429,Sports
+76441,Male,76,85,50,48,43,75,75,Sports,History,Volleyball,Athletics competition winner,Hindi,64.57142857142857,Sports
+9324,Male,88,40,99,55,55,62,87,Sports,Science,Swimming,Math Olympiad winner,Hindi,69.42857142857143,Sports
+52173,Female,72,53,54,66,44,94,88,Sports,History,Tennis,Chess competition winner,Hindi,67.28571428571429,Sports
+39581,Female,88,69,89,50,96,69,54,Sports,Music,Athletics,Chess competition winner,Hindi,73.57142857142857,Sports
+95038,Female,73,88,96,59,56,54,75,Sports,History,Tennis,Athletics competition winner,English,71.57142857142857,Sports
+98093,Female,97,93,60,42,78,54,77,Sports,Dance,Table Tennis,Science fair winner,English,71.57142857142857,Sports
+56908,Male,87,81,90,70,61,68,76,Sports,Dance,Table Tennis,Athletics competition winner,English,76.14285714285714,Sports
+83324,Female,80,53,77,56,55,89,41,Sports,Programming,Basketball,Music competition winner,English,64.42857142857143,Sports
+3826,Female,99,92,92,100,45,57,94,Sports,History,Cricket,Music competition winner,English,82.71428571428571,Sports
+15509,Male,89,82,97,94,68,66,60,Sports,Photography,Volleyball,Music competition winner,Hindi,79.42857142857143,Sports
+59080,Female,59,41,43,100,92,59,40,Photography,Photography,Athletics,Science fair winner,English,62.0,Sports
+42379,Male,62,96,94,72,78,95,51,Sports,Programming,Football,Debate competition winner,English,78.28571428571429,Sports
+33641,Female,50,78,49,50,75,54,73,Sports,History,Tennis,Debate competition winner,Hindi,61.285714285714285,Sports
+95837,Male,84,50,83,54,89,73,69,Sports,Programming,Tennis,Athletics competition winner,Hindi,71.71428571428571,Sports
+30963,Male,95,100,72,51,89,77,67,Sports,Music,Table Tennis,Art competition winner,English,78.71428571428571,Sports
+30456,Male,62,64,58,46,93,90,52,Sports,Art,Cricket,Chess competition winner,English,66.42857142857143,Sports
+66853,Male,46,78,74,41,95,67,62,Sports,Programming,Basketball,Music competition winner,English,66.14285714285714,Sports
+23401,Male,45,80,99,70,48,63,52,Sports,Science,Table Tennis,Dance competition winner,Hindi,65.28571428571429,Sports
+49540,Female,90,99,96,82,84,53,76,Sports,Art,Football,Chess competition winner,English,82.85714285714286,Sports
+72527,Male,44,81,57,75,46,74,40,Sports,Photography,Cricket,Music competition winner,Hindi,59.57142857142857,Sports
+51765,Male,56,93,51,61,77,55,99,Sports,Photography,Swimming,Debate competition winner,English,70.28571428571429,Sports
+40705,Male,68,76,95,71,89,55,78,Sports,Dance,Football,Athletics competition winner,English,76.0,Sports
+16161,Male,49,93,51,99,75,68,85,Sports,Music,Swimming,Debate competition winner,Hindi,74.28571428571429,Sports
+45069,Male,71,51,80,62,53,44,72,Sports,Music,Table Tennis,Science fair winner,Hindi,61.857142857142854,Sports
+98197,Male,93,69,86,67,97,96,56,Sports,Cooking,Football,Math Olympiad winner,Hindi,80.57142857142857,Sports
+75475,Female,41,50,45,72,84,51,66,Sports,Dance,Athletics,Music competition winner,Hindi,58.42857142857143,Sports
+80383,Male,51,90,83,68,93,69,42,Sports,Programming,Volleyball,Art competition winner,Hindi,70.85714285714286,Sports
+70928,Male,68,63,93,51,81,50,77,Sports,Programming,Basketball,Dance competition winner,Hindi,69.0,Sports
+26979,Male,67,46,69,71,61,95,41,Sports,Art,Athletics,Art competition winner,Hindi,64.28571428571429,Sports
+83956,Male,65,73,49,85,54,94,83,Sports,History,Volleyball,Science fair winner,Hindi,71.85714285714286,Sports
+75433,Female,72,70,59,60,56,70,53,Sports,History,Football,Dance competition winner,Hindi,62.857142857142854,Sports
+17448,Female,68,89,76,53,99,99,68,Sports,Art,Table Tennis,Dance competition winner,English,78.85714285714286,Sports
+92585,Male,47,50,98,90,76,72,45,Sports,Science,Table Tennis,Dance competition winner,Hindi,68.28571428571429,Sports
+47258,Male,85,98,77,89,90,49,88,Sports,Dance,Cricket,Math Olympiad winner,Hindi,82.28571428571429,Sports
+37139,Female,92,66,48,68,87,45,45,Travelling,Music,Athletics,Debate competition winner,Hindi,64.42857142857143,Sports
+64967,Female,75,85,60,56,68,57,91,Sports,Photography,Football,Art competition winner,English,70.28571428571429,Sports
+39894,Male,81,75,48,82,64,41,61,Sports,Programming,Cricket,Music competition winner,English,64.57142857142857,Sports
+8559,Female,98,97,87,88,40,65,47,Sports,Programming,Table Tennis,Chess competition winner,English,74.57142857142857,Sports
+99631,Male,99,81,61,58,78,76,97,Sports,Art,Basketball,Chess competition winner,English,78.57142857142857,Sports
+65110,Female,47,50,57,70,57,78,92,Sports,Cooking,Athletics,Chess competition winner,Hindi,64.42857142857143,Sports
+26806,Male,77,63,40,61,71,43,91,Sports,Music,Swimming,Chess competition winner,Hindi,63.714285714285715,Sports
+940,Female,68,40,54,90,70,82,78,Sports,History,Swimming,Dance competition winner,English,68.85714285714286,Sports
+86796,Male,75,56,63,45,55,91,71,Sports,Music,Basketball,Debate competition winner,Hindi,65.14285714285714,Sports
+46832,Female,72,94,51,89,83,65,44,Sports,History,Athletics,Art competition winner,Hindi,71.14285714285714,Sports
+83225,Male,100,73,70,53,87,95,87,Sports,Art,Cricket,Art competition winner,Hindi,80.71428571428571,Sports
+84774,Female,73,55,66,77,43,86,62,Sports,Photography,Football,Science fair winner,English,66.0,Sports
+17386,Male,58,100,91,40,58,48,79,Sports,History,Swimming,Debate competition winner,English,67.71428571428571,Sports
+26687,Female,60,72,66,67,54,64,97,Sports,Photography,Football,Science fair winner,English,68.57142857142857,Sports
+18445,Female,86,48,58,74,48,56,51,Music,Dance,Swimming,Math Olympiad winner,English,60.142857142857146,Sports
+10612,Male,72,81,79,93,97,57,94,Sports,Science,Athletics,Debate competition winner,Hindi,81.85714285714286,Sports
+84290,Female,47,70,63,89,97,60,40,Sports,Photography,Volleyball,Dance competition winner,English,66.57142857142857,Sports
+78263,Female,61,45,54,82,76,43,57,Gardening,Cooking,Cricket,Art competition winner,Hindi,59.714285714285715,Sports
+78067,Male,90,57,49,93,87,65,53,Sports,Dance,Athletics,Math Olympiad winner,Hindi,70.57142857142857,Sports
+52293,Male,67,53,84,88,60,49,78,Sports,Science,Cricket,Math Olympiad winner,Hindi,68.42857142857143,Sports
+13167,Female,69,53,48,77,88,70,43,Sports,Music,Volleyball,Dance competition winner,Hindi,64.0,Sports
+36698,Male,83,59,50,88,56,49,50,Reading,Programming,Football,Debate competition winner,English,62.142857142857146,Sports
+28040,Female,94,44,46,75,96,45,41,Photography,Programming,Football,Athletics competition winner,English,63.0,Sports
+3932,Female,63,40,57,40,90,43,59,Gardening,Cooking,Football,Athletics competition winner,English,56.0,Sports
+57319,Male,93,76,95,65,70,58,81,Sports,History,Swimming,Debate competition winner,English,76.85714285714286,Sports
+29383,Male,92,44,65,60,53,70,86,Sports,Science,Athletics,Science fair winner,Hindi,67.14285714285714,Sports
+61306,Female,64,68,77,64,57,95,65,Sports,History,Cricket,Dance competition winner,Hindi,70.0,Sports
+88299,Male,61,65,57,74,90,47,67,Sports,Science,Tennis,Science fair winner,Hindi,65.85714285714286,Sports
+10164,Male,55,92,50,65,71,65,94,Sports,Science,Football,Debate competition winner,English,70.28571428571429,Sports
+44683,Male,55,92,87,54,43,63,67,Sports,Photography,Athletics,Art competition winner,English,65.85714285714286,Sports
+24225,Male,50,81,79,53,62,98,49,Sports,Science,Basketball,Dance competition winner,English,67.42857142857143,Sports
+99967,Male,78,41,45,58,63,59,59,Reading,Dance,Volleyball,Debate competition winner,English,57.57142857142857,Sports
+16118,Female,65,60,94,90,100,98,59,Sports,Music,Volleyball,Chess competition winner,Hindi,80.85714285714286,Sports
+67036,Female,59,58,49,49,51,82,73,Sports,Cooking,Tennis,Chess competition winner,English,60.142857142857146,Sports
+91805,Male,63,70,78,62,73,58,91,Sports,Dance,Tennis,Chess competition winner,English,70.71428571428571,Sports
+4956,Female,78,45,65,59,55,73,89,Sports,Art,Swimming,Music competition winner,Hindi,66.28571428571429,Sports
+21848,Male,72,53,53,99,74,43,52,Travelling,Cooking,Cricket,Science fair winner,Hindi,63.714285714285715,Sports
+11848,Female,89,62,40,78,66,63,51,Sports,Dance,Tennis,Dance competition winner,Hindi,64.14285714285714,Sports
+8278,Male,87,44,74,61,92,100,87,Sports,Art,Football,Music competition winner,Hindi,77.85714285714286,Sports
+62041,Female,99,66,43,46,88,40,45,Drawing,Music,Basketball,Science fair winner,Hindi,61.0,Sports
+57959,Female,80,84,93,91,47,57,83,Sports,Cooking,Football,Math Olympiad winner,English,76.42857142857143,Sports
+3147,Male,86,61,41,66,63,58,53,Cooking,Music,Tennis,Athletics competition winner,Hindi,61.142857142857146,Sports
+73356,Female,72,96,64,40,46,68,54,Sports,Cooking,Athletics,Dance competition winner,English,62.857142857142854,Sports
+45941,Female,64,87,50,40,92,74,43,Sports,Programming,Table Tennis,Chess competition winner,English,64.28571428571429,Sports
+34740,Female,85,76,44,100,46,53,90,Sports,Science,Football,Math Olympiad winner,English,70.57142857142857,Sports
+95568,Male,66,87,59,64,60,46,82,Sports,Art,Swimming,Chess competition winner,Hindi,66.28571428571429,Sports
+69425,Female,73,59,42,60,57,45,41,Cooking,Dance,Athletics,Chess competition winner,English,53.857142857142854,Sports
+94441,Female,79,93,96,83,80,87,45,Sports,Programming,Swimming,Math Olympiad winner,Hindi,80.42857142857143,Sports
+66514,Female,89,79,69,71,77,64,83,Sports,Music,Basketball,Dance competition winner,Hindi,76.0,Sports
+34715,Male,94,97,68,90,47,55,62,Sports,Programming,Basketball,Athletics competition winner,English,73.28571428571429,Sports
+96117,Female,83,81,71,61,73,81,77,Sports,Photography,Athletics,Debate competition winner,Hindi,75.28571428571429,Sports
+10483,Female,54,51,49,59,76,41,41,Reading,Cooking,Volleyball,Music competition winner,English,53.0,Sports
+13684,Female,43,79,47,100,85,47,80,Sports,Art,Athletics,Science fair winner,Hindi,68.71428571428571,Sports
+48693,Male,99,63,44,80,61,90,56,Sports,Cooking,Volleyball,Science fair winner,Hindi,70.42857142857143,Sports
+47772,Female,47,91,53,69,61,70,97,Sports,Dance,Volleyball,Music competition winner,English,69.71428571428571,Sports
+52318,Male,88,65,83,94,47,73,40,Sports,Art,Tennis,Chess competition winner,Hindi,70.0,Sports
+63931,Female,71,68,41,97,78,54,54,Photography,Cooking,Athletics,Music competition winner,English,66.14285714285714,Sports
+20121,Male,46,94,56,47,41,72,69,Sports,Photography,Table Tennis,Debate competition winner,English,60.714285714285715,Sports
+11437,Female,72,63,43,90,71,68,76,Sports,History,Cricket,Art competition winner,Hindi,69.0,Sports
+90132,Female,41,48,81,95,76,90,56,Sports,Photography,Tennis,Athletics competition winner,English,69.57142857142857,Sports
+61155,Male,42,64,81,66,58,73,75,Sports,Programming,Table Tennis,Debate competition winner,Hindi,65.57142857142857,Sports
+54983,Male,74,54,46,55,99,46,52,Music,Science,Tennis,Music competition winner,English,60.857142857142854,Sports
+76062,Male,82,96,45,42,43,63,63,Sports,Art,Volleyball,Debate competition winner,Hindi,62.0,Sports
+90277,Female,72,65,64,72,97,80,70,Sports,Dance,Swimming,Science fair winner,Hindi,74.28571428571429,Sports
+80051,Male,87,100,49,94,63,47,73,Sports,History,Football,Science fair winner,Hindi,73.28571428571429,Sports
+24959,Female,74,55,97,86,76,66,84,Sports,History,Swimming,Science fair winner,Hindi,76.85714285714286,Sports
+64264,Male,52,46,45,81,80,42,54,Cooking,History,Swimming,Dance competition winner,Hindi,57.142857142857146,Sports
+32281,Female,56,56,51,55,85,57,54,Gardening,Science,Basketball,Athletics competition winner,English,59.142857142857146,Sports
+87671,Female,87,89,76,76,49,50,75,Sports,Art,Volleyball,Chess competition winner,English,71.71428571428571,Sports
+75413,Female,97,79,49,54,91,88,44,Sports,Photography,Athletics,Chess competition winner,English,71.71428571428571,Sports
+63498,Male,78,51,41,50,71,61,44,Sports,Cooking,Cricket,Dance competition winner,English,56.57142857142857,Sports
+15668,Female,80,92,96,51,62,84,50,Sports,Science,Tennis,Music competition winner,English,73.57142857142857,Sports
+62813,Male,98,83,100,88,98,73,82,Sports,Dance,Athletics,Chess competition winner,Hindi,88.85714285714286,Sports
+72100,Female,75,48,41,78,63,54,47,Travelling,Art,Volleyball,Math Olympiad winner,Hindi,58.0,Sports
+75300,Male,77,80,51,97,64,74,100,Sports,Dance,Athletics,Debate competition winner,English,77.57142857142857,Sports
+55560,Female,66,86,87,55,89,67,69,Sports,Dance,Volleyball,Dance competition winner,Hindi,74.14285714285714,Sports
+91542,Female,78,82,59,96,72,61,59,Sports,Music,Tennis,Music competition winner,Hindi,72.42857142857143,Sports
+50730,Male,76,94,94,59,45,71,94,Sports,Science,Athletics,Art competition winner,English,76.14285714285714,Sports
+43685,Female,90,47,47,50,47,56,46,Gardening,Music,Tennis,Dance competition winner,English,54.714285714285715,Sports
+88172,Male,60,73,97,92,94,46,75,Sports,Dance,Cricket,Chess competition winner,Hindi,76.71428571428571,Sports
+70127,Male,52,98,54,47,62,57,68,Sports,Cooking,Table Tennis,Music competition winner,English,62.57142857142857,Sports
+67749,Male,94,92,78,53,90,100,49,Sports,Art,Table Tennis,Debate competition winner,Hindi,79.42857142857143,Sports
+77214,Female,40,44,63,57,88,94,47,Sports,Cooking,Swimming,Music competition winner,English,61.857142857142854,Sports
+70105,Male,97,86,51,93,73,68,57,Sports,Music,Tennis,Athletics competition winner,Hindi,75.0,Sports
+8943,Male,47,81,55,59,52,86,94,Sports,Art,Basketball,Athletics competition winner,English,67.71428571428571,Sports
+7660,Female,84,54,52,52,73,92,45,Sports,Dance,Basketball,Music competition winner,Hindi,64.57142857142857,Sports
+21082,Female,76,58,43,87,90,44,57,Reading,Cooking,Swimming,Art competition winner,Hindi,65.0,Sports
+76421,Female,54,90,81,92,84,81,52,Sports,Programming,Athletics,Music competition winner,Hindi,76.28571428571429,Sports
+43194,Female,98,53,66,94,84,67,57,Sports,Photography,Volleyball,Math Olympiad winner,English,74.14285714285714,Sports
+20927,Female,83,56,57,90,41,45,52,Music,Music,Football,Music competition winner,English,60.57142857142857,Sports
+81481,Male,49,51,94,46,40,83,71,Sports,Art,Table Tennis,Athletics competition winner,Hindi,62.0,Sports
+54476,Female,86,43,67,87,49,84,53,Sports,Dance,Table Tennis,Science fair winner,English,67.0,Sports
+97221,Male,52,96,96,40,86,92,72,Sports,Music,Athletics,Math Olympiad winner,Hindi,76.28571428571429,Sports
+63279,Female,67,60,55,89,69,79,96,Sports,Programming,Athletics,Debate competition winner,English,73.57142857142857,Sports
+55837,Male,99,57,65,43,64,45,71,Sports,Music,Cricket,Dance competition winner,English,63.42857142857143,Sports
+87498,Male,52,97,71,62,92,94,51,Sports,Programming,Cricket,Chess competition winner,Hindi,74.14285714285714,Sports
+11671,Female,54,86,73,70,53,89,48,Sports,Dance,Swimming,Athletics competition winner,Hindi,67.57142857142857,Sports
+28795,Female,56,58,54,59,90,97,75,Sports,Cooking,Swimming,Music competition winner,English,69.85714285714286,Sports
+92213,Female,80,63,71,47,42,61,42,Sports,Dance,Cricket,Science fair winner,English,58.0,Sports
+34172,Male,100,79,98,55,100,49,87,Sports,Science,Basketball,Art competition winner,English,81.14285714285714,Sports
+61310,Male,94,95,57,51,82,65,85,Sports,Programming,Basketball,Dance competition winner,Hindi,75.57142857142857,Sports
+33290,Male,47,100,88,56,58,64,89,Sports,Science,Volleyball,Math Olympiad winner,English,71.71428571428571,Sports
+82014,Male,88,57,54,52,75,44,56,Gardening,Art,Athletics,Dance competition winner,English,60.857142857142854,Sports
+6668,Male,95,70,60,56,62,81,71,Sports,Photography,Athletics,Debate competition winner,Hindi,70.71428571428571,Sports
+77163,Female,91,51,81,88,54,50,71,Sports,Dance,Volleyball,Athletics competition winner,English,69.42857142857143,Sports
+47074,Male,96,64,84,85,60,44,89,Sports,Art,Cricket,Dance competition winner,English,74.57142857142857,Sports
+14032,Male,98,55,81,94,62,97,56,Sports,Cooking,Football,Math Olympiad winner,Hindi,77.57142857142857,Sports
+17384,Female,56,88,51,99,43,79,83,Sports,Music,Tennis,Chess competition winner,English,71.28571428571429,Sports
+47289,Female,53,83,92,91,64,59,100,Sports,Programming,Football,Chess competition winner,English,77.42857142857143,Sports
+87485,Male,46,67,88,62,69,88,52,Sports,History,Basketball,Dance competition winner,Hindi,67.42857142857143,Sports
+18334,Male,78,45,88,55,99,52,78,Sports,Photography,Cricket,Science fair winner,English,70.71428571428571,Sports
+56823,Female,75,65,55,83,68,47,47,Sports,Cooking,Athletics,Dance competition winner,Hindi,62.857142857142854,Sports
+46017,Male,66,86,53,52,64,73,91,Sports,Music,Athletics,Art competition winner,English,69.28571428571429,Sports
+29063,Female,67,90,41,55,63,63,42,Sports,Science,Cricket,Chess competition winner,English,60.142857142857146,Sports
+43941,Male,53,41,45,45,64,53,45,Photography,Cooking,Football,Math Olympiad winner,English,49.42857142857143,Sports
+68621,Female,84,83,75,49,95,44,82,Sports,History,Table Tennis,Chess competition winner,English,73.14285714285714,Sports
+82131,Male,89,63,62,82,80,62,49,Sports,Science,Table Tennis,Math Olympiad winner,English,69.57142857142857,Sports
+5279,Male,89,62,66,58,80,54,64,Sports,Cooking,Cricket,Chess competition winner,English,67.57142857142857,Sports
+64237,Female,70,61,47,44,93,41,59,Sports,Science,Football,Music competition winner,English,59.285714285714285,Sports
+95194,Female,76,45,43,73,80,86,57,Sports,History,Table Tennis,Science fair winner,English,65.71428571428571,Sports
+22760,Female,50,42,56,81,71,47,93,Sports,Cooking,Basketball,Athletics competition winner,English,62.857142857142854,Sports
+6962,Female,97,83,51,45,48,97,61,Sports,History,Swimming,Dance competition winner,Hindi,68.85714285714286,Sports
+98600,Male,58,40,53,41,51,57,49,Gardening,Dance,Tennis,Math Olympiad winner,English,49.857142857142854,Sports
+35480,Male,42,82,68,56,75,64,50,Sports,Music,Table Tennis,Art competition winner,English,62.42857142857143,Sports
+52813,Female,82,60,56,55,52,47,54,Drawing,History,Basketball,Science fair winner,Hindi,58.0,Sports
+87608,Female,86,47,49,97,81,48,43,Cooking,Photography,Table Tennis,Art competition winner,English,64.42857142857143,Sports
+80283,Male,62,42,52,62,77,42,73,Sports,Dance,Football,Athletics competition winner,English,58.57142857142857,Sports
+4773,Female,96,53,52,77,80,53,62,Sports,Art,Football,Chess competition winner,English,67.57142857142857,Sports
+53175,Male,95,96,70,43,51,97,94,Sports,History,Cricket,Music competition winner,English,78.0,Sports
+14964,Male,81,52,46,47,89,58,67,Sports,Music,Cricket,Science fair winner,Hindi,62.857142857142854,Sports
+69906,Male,87,95,53,96,79,62,91,Sports,History,Table Tennis,Chess competition winner,Hindi,80.42857142857143,Sports
